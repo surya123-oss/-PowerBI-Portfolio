@@ -1,0 +1,1201 @@
+OrderID,OrderDate,Product,Category,Region,City,CustomerSegment,SalesChannel,Quantity,UnitPrice,DiscountPct,Revenue,Cost,Profit
+ORD-00155,2024-01-01,Mouse,Technology,North,Delhi,Corporate,In-Store,2,12.9,0.05,24.51,19.41,5.1
+ORD-00461,2024-01-01,Laptop,Technology,West,Pune,Small Business,Partner,6,1025.36,0.0,6152.16,5027.91,1124.25
+ORD-01032,2024-01-01,Paper,Office Supplies,West,Pune,Consumer,Online,2,18.82,0.05,35.76,27.91,7.85
+ORD-00057,2024-01-04,Printer,Technology,West,Ahmedabad,Consumer,In-Store,1,100.49,0.0,100.49,70.52,29.97
+ORD-00516,2024-01-04,Office Chair,Furniture,North,Delhi,Corporate,Online,3,440.97,0.0,1322.91,911.67,411.24
+ORD-00637,2024-01-04,Laptop,Technology,West,Ahmedabad,Consumer,Online,6,887.73,0.05,5060.06,2779.4,2280.66
+ORD-00691,2024-01-04,Stapler,Office Supplies,North,Chandigarh,Consumer,Online,5,8.84,0.05,41.99,29.99,12.0
+ORD-00177,2024-01-05,Mouse,Technology,East,Guwahati,Consumer,In-Store,4,35.62,0.15,121.11,88.23,32.88
+ORD-00326,2024-01-05,Folder,Office Supplies,East,Kolkata,Consumer,Online,4,6.29,0.2,20.13,14.29,5.84
+ORD-00961,2024-01-05,Monitor,Technology,South,Chennai,Consumer,Online,8,223.17,0.2,1428.29,1253.24,175.05
+ORD-00506,2024-01-07,Stapler,Office Supplies,Central,Bhopal,Consumer,In-Store,3,18.96,0.0,56.88,35.12,21.76
+ORD-01126,2024-01-07,Notebook,Office Supplies,East,Kolkata,Consumer,Partner,8,4.07,0.1,29.3,19.94,9.36
+ORD-00996,2024-01-08,Office Chair,Furniture,East,Kolkata,Corporate,In-Store,8,442.29,0.0,3538.32,2065.8,1472.52
+ORD-00395,2024-01-09,Keyboard,Technology,South,Hyderabad,Small Business,Online,5,30.09,0.0,150.45,119.49,30.96
+ORD-01060,2024-01-09,Keyboard,Technology,South,Bengaluru,Consumer,Partner,5,63.99,0.0,319.95,255.9,64.05
+ORD-00476,2024-01-12,Paper,Office Supplies,Central,Indore,Corporate,Online,2,21.52,0.15,36.58,33.49,3.09
+ORD-00234,2024-01-13,Filing Cabinet,Furniture,North,Jaipur,Corporate,Online,4,200.64,0.1,722.3,465.85,256.45
+ORD-00028,2024-01-14,Notebook,Office Supplies,East,Guwahati,Consumer,In-Store,2,2.17,0.0,4.34,2.43,1.91
+ORD-00728,2024-01-14,Laptop,Technology,Central,Indore,Consumer,Online,2,1341.91,0.05,2549.63,1539.1,1010.53
+ORD-00999,2024-01-15,Laptop,Technology,West,Mumbai,Small Business,In-Store,7,774.67,0.0,5422.69,2855.02,2567.67
+ORD-00336,2024-01-16,Office Chair,Furniture,South,Hyderabad,Consumer,Online,1,172.27,0.15,146.43,97.12,49.31
+ORD-00567,2024-01-16,Desk,Furniture,South,Hyderabad,Consumer,Online,3,460.34,0.0,1381.02,1049.66,331.36
+ORD-00254,2024-01-17,Keyboard,Technology,West,Ahmedabad,Consumer,In-Store,1,22.23,0.1,20.01,11.7,8.31
+ORD-00681,2024-01-17,Mouse,Technology,East,Kolkata,Consumer,Online,6,26.2,0.1,141.48,120.67,20.81
+ORD-00998,2024-01-17,Bookshelf,Furniture,South,Bengaluru,Corporate,Online,4,260.75,0.05,990.85,829.1,161.75
+ORD-00600,2024-01-18,Bookshelf,Furniture,West,Pune,Small Business,In-Store,1,126.99,0.05,120.64,84.28,36.36
+ORD-00781,2024-01-18,Paper,Office Supplies,Central,Indore,Corporate,In-Store,1,19.54,0.0,19.54,10.41,9.13
+ORD-00579,2024-01-19,Paper,Office Supplies,North,Jaipur,Consumer,In-Store,8,4.33,0.05,32.91,26.45,6.46
+ORD-00887,2024-01-19,Monitor,Technology,North,Jaipur,Small Business,In-Store,3,141.6,0.15,361.08,260.58,100.5
+ORD-00976,2024-01-19,Desk,Furniture,West,Ahmedabad,Consumer,Online,5,237.67,0.0,1188.35,927.88,260.47
+ORD-00233,2024-01-20,Pen Set,Office Supplies,South,Hyderabad,Corporate,In-Store,4,6.46,0.2,20.67,18.94,1.73
+ORD-00310,2024-01-20,Printer,Technology,Central,Indore,Consumer,Online,4,356.58,0.0,1426.32,770.35,655.97
+ORD-00445,2024-01-20,Laptop,Technology,Central,Bhopal,Consumer,Partner,6,783.73,0.0,4702.38,2962.53,1739.85
+ORD-00871,2024-01-20,Keyboard,Technology,Central,Bhopal,Small Business,In-Store,3,41.31,0.05,117.73,67.55,50.18
+ORD-01011,2024-01-21,Stapler,Office Supplies,Central,Bhopal,Corporate,Online,6,23.05,0.0,138.3,87.14,51.16
+ORD-01035,2024-01-21,Laptop,Technology,Central,Nagpur,Small Business,Online,5,652.37,0.0,3261.85,2249.47,1012.38
+ORD-00634,2024-01-22,Laptop,Technology,South,Bengaluru,Consumer,Partner,7,644.18,0.0,4509.26,3061.52,1447.74
+ORD-00954,2024-01-22,Notebook,Office Supplies,South,Chennai,Corporate,In-Store,6,9.21,0.1,49.73,40.92,8.81
+ORD-00103,2024-01-23,Monitor,Technology,North,Chandigarh,Corporate,In-Store,7,176.5,0.0,1235.5,872.32,363.18
+ORD-00717,2024-01-23,Filing Cabinet,Furniture,North,Chandigarh,Consumer,In-Store,7,329.3,0.1,2074.59,1648.29,426.3
+ORD-01109,2024-01-23,Pen Set,Office Supplies,Central,Indore,Small Business,Partner,3,7.74,0.0,23.22,13.5,9.72
+ORD-00026,2024-01-24,Paper,Office Supplies,West,Mumbai,Corporate,Online,6,8.72,0.2,41.86,30.99,10.87
+ORD-00430,2024-01-25,Notebook,Office Supplies,Central,Nagpur,Corporate,Online,3,5.97,0.0,17.91,13.68,4.23
+ORD-00553,2024-01-25,Filing Cabinet,Furniture,South,Bengaluru,Consumer,In-Store,7,219.31,0.05,1458.41,1016.78,441.63
+ORD-00438,2024-01-26,Pen Set,Office Supplies,North,Delhi,Consumer,Online,3,4.58,0.1,12.37,7.28,5.09
+ORD-01014,2024-01-26,Stapler,Office Supplies,East,Bhubaneswar,Corporate,Partner,4,17.0,0.2,54.4,55.44,-1.04
+ORD-01148,2024-01-26,Bookshelf,Furniture,South,Chennai,Consumer,Online,8,209.06,0.05,1588.86,981.26,607.6
+ORD-00097,2024-01-27,Notebook,Office Supplies,East,Kolkata,Consumer,Online,2,7.2,0.2,11.52,7.93,3.59
+ORD-00330,2024-01-27,Notebook,Office Supplies,Central,Nagpur,Consumer,Online,5,6.06,0.05,28.78,23.61,5.17
+ORD-00085,2024-01-28,Mouse,Technology,Central,Indore,Corporate,In-Store,2,55.24,0.05,104.96,59.06,45.9
+ORD-00520,2024-01-28,Monitor,Technology,West,Pune,Consumer,Online,5,397.39,0.1,1788.25,1218.63,569.62
+ORD-00833,2024-01-28,Folder,Office Supplies,West,Pune,Small Business,Partner,4,2.24,0.15,7.62,5.11,2.51
+ORD-00283,2024-01-29,Monitor,Technology,Central,Indore,Consumer,Online,3,199.37,0.0,598.11,354.13,243.98
+ORD-00676,2024-01-31,Keyboard,Technology,East,Bhubaneswar,Consumer,In-Store,2,88.99,0.05,169.08,125.84,43.24
+ORD-00842,2024-01-31,Monitor,Technology,North,Jaipur,Consumer,In-Store,3,332.83,0.0,998.49,772.62,225.87
+ORD-00307,2024-02-01,Paper,Office Supplies,North,Jaipur,Corporate,Online,5,17.11,0.0,85.55,63.21,22.34
+ORD-00319,2024-02-02,Printer,Technology,West,Ahmedabad,Corporate,Online,3,376.28,0.1,1015.96,611.33,404.63
+ORD-01072,2024-02-02,Filing Cabinet,Furniture,Central,Indore,Consumer,In-Store,3,95.26,0.15,242.91,185.42,57.49
+ORD-00121,2024-02-03,Laptop,Technology,East,Kolkata,Consumer,Online,2,770.52,0.05,1463.99,1244.85,219.14
+ORD-00641,2024-02-03,Bookshelf,Furniture,East,Guwahati,Consumer,In-Store,4,113.83,0.05,432.55,348.06,84.49
+ORD-01184,2024-02-05,Bookshelf,Furniture,North,Jaipur,Consumer,Online,7,74.76,0.0,523.32,410.23,113.09
+ORD-00548,2024-02-06,Printer,Technology,East,Guwahati,Small Business,In-Store,3,353.15,0.0,1059.45,777.21,282.24
+ORD-00333,2024-02-07,Stapler,Office Supplies,Central,Indore,Corporate,Online,2,13.04,0.2,20.86,20.48,0.38
+ORD-00037,2024-02-09,Paper,Office Supplies,North,Jaipur,Consumer,In-Store,7,7.14,0.1,44.98,36.2,8.78
+ORD-00377,2024-02-09,Notebook,Office Supplies,South,Chennai,Consumer,Online,5,10.15,0.2,40.6,41.32,-0.72
+ORD-00414,2024-02-09,Laptop,Technology,West,Ahmedabad,Corporate,In-Store,3,694.45,0.2,1666.68,1205.48,461.2
+ORD-00935,2024-02-09,Notebook,Office Supplies,East,Bhubaneswar,Small Business,Online,1,11.74,0.0,11.74,7.97,3.77
+ORD-01007,2024-02-09,Stapler,Office Supplies,South,Hyderabad,Corporate,Online,3,15.64,0.0,46.92,24.5,22.42
+ORD-00069,2024-02-10,Laptop,Technology,North,Chandigarh,Consumer,In-Store,7,1265.69,0.0,8859.83,5495.21,3364.62
+ORD-00324,2024-02-10,Monitor,Technology,Central,Nagpur,Corporate,In-Store,1,390.08,0.1,351.07,210.87,140.2
+ORD-00904,2024-02-10,Printer,Technology,Central,Indore,Consumer,In-Store,8,239.75,0.05,1822.1,1224.6,597.5
+ORD-00419,2024-02-11,Bookshelf,Furniture,West,Mumbai,Consumer,Partner,5,247.04,0.15,1049.92,781.83,268.09
+ORD-01153,2024-02-11,Monitor,Technology,South,Chennai,Corporate,Online,2,416.88,0.0,833.76,513.95,319.81
+ORD-01163,2024-02-11,Paper,Office Supplies,North,Chandigarh,Consumer,In-Store,5,7.51,0.05,35.67,19.97,15.7
+ORD-00108,2024-02-14,Notebook,Office Supplies,North,Delhi,Consumer,Partner,5,3.51,0.0,17.55,12.78,4.77
+ORD-00003,2024-02-16,Office Chair,Furniture,South,Hyderabad,Consumer,Partner,8,292.97,0.15,1992.2,1662.9,329.3
+ORD-00456,2024-02-16,Paper,Office Supplies,East,Guwahati,Consumer,Partner,1,9.39,0.0,9.39,6.63,2.76
+ORD-00662,2024-02-16,Mouse,Technology,North,Chandigarh,Consumer,Online,3,49.31,0.0,147.93,83.98,63.95
+ORD-00761,2024-02-16,Printer,Technology,Central,Bhopal,Small Business,In-Store,7,118.19,0.1,744.6,563.32,181.28
+ORD-01015,2024-02-17,Laptop,Technology,Central,Indore,Corporate,In-Store,2,1211.82,0.0,2423.64,1912.18,511.46
+ORD-00562,2024-02-18,Notebook,Office Supplies,East,Bhubaneswar,Consumer,In-Store,4,4.43,0.1,15.95,11.11,4.84
+ORD-00420,2024-02-19,Printer,Technology,North,Jaipur,Small Business,Online,1,329.83,0.1,296.85,244.25,52.6
+ORD-00410,2024-02-20,Office Chair,Furniture,North,Jaipur,Corporate,Partner,6,253.17,0.0,1519.02,1229.2,289.82
+ORD-00942,2024-02-20,Desk,Furniture,Central,Bhopal,Consumer,Online,5,276.72,0.0,1383.6,724.59,659.01
+ORD-01193,2024-02-20,Paper,Office Supplies,North,Chandigarh,Consumer,In-Store,3,6.11,0.1,16.5,13.85,2.65
+ORD-00555,2024-02-21,Laptop,Technology,North,Chandigarh,Consumer,Partner,1,1321.54,0.05,1255.46,769.42,486.04
+ORD-00255,2024-02-22,Mouse,Technology,East,Kolkata,Consumer,Partner,4,34.36,0.15,116.82,108.29,8.53
+ORD-00563,2024-02-22,Monitor,Technology,North,Chandigarh,Consumer,Online,3,323.7,0.2,776.88,704.4,72.48
+ORD-00573,2024-02-24,Keyboard,Technology,North,Chandigarh,Consumer,In-Store,2,23.03,0.1,41.45,35.14,6.31
+ORD-00906,2024-02-24,Bookshelf,Furniture,West,Ahmedabad,Corporate,In-Store,7,247.71,0.05,1647.27,1071.79,575.48
+ORD-00795,2024-02-25,Keyboard,Technology,West,Ahmedabad,Consumer,Online,1,60.05,0.1,54.05,36.79,17.26
+ORD-00191,2024-02-26,Keyboard,Technology,South,Hyderabad,Corporate,Online,6,24.91,0.15,127.04,97.72,29.32
+ORD-00274,2024-02-26,Laptop,Technology,East,Bhubaneswar,Corporate,Online,2,835.84,0.2,1337.34,877.41,459.93
+ORD-00345,2024-02-26,Desk,Furniture,North,Chandigarh,Consumer,Online,3,452.84,0.0,1358.52,708.02,650.5
+ORD-00552,2024-02-27,Notebook,Office Supplies,North,Jaipur,Corporate,In-Store,5,8.11,0.0,40.55,27.21,13.34
+ORD-00611,2024-02-27,Pen Set,Office Supplies,North,Jaipur,Corporate,In-Store,8,15.32,0.05,116.43,66.5,49.93
+ORD-00828,2024-02-27,Bookshelf,Furniture,East,Kolkata,Consumer,In-Store,2,100.9,0.1,181.62,128.9,52.72
+ORD-00533,2024-02-28,Stapler,Office Supplies,Central,Bhopal,Consumer,Online,6,13.46,0.0,80.76,47.75,33.01
+ORD-01188,2024-02-28,Keyboard,Technology,West,Ahmedabad,Consumer,Online,3,90.97,0.0,272.91,175.22,97.69
+ORD-00176,2024-03-01,Desk,Furniture,Central,Bhopal,Corporate,Partner,1,125.8,0.1,113.22,86.65,26.57
+ORD-01172,2024-03-01,Filing Cabinet,Furniture,North,Chandigarh,Consumer,In-Store,3,265.76,0.0,797.28,561.94,235.34
+ORD-00017,2024-03-02,Monitor,Technology,East,Kolkata,Consumer,Online,6,314.95,0.05,1795.21,1006.24,788.97
+ORD-00874,2024-03-02,Pen Set,Office Supplies,North,Jaipur,Consumer,Online,6,7.2,0.15,36.72,25.58,11.14
+ORD-00636,2024-03-03,Bookshelf,Furniture,Central,Indore,Consumer,In-Store,5,162.07,0.0,810.35,581.54,228.81
+ORD-00900,2024-03-04,Filing Cabinet,Furniture,West,Pune,Consumer,In-Store,1,117.29,0.0,117.29,82.49,34.8
+ORD-00236,2024-03-05,Printer,Technology,North,Delhi,Consumer,In-Store,1,124.83,0.0,124.83,101.98,22.85
+ORD-00908,2024-03-05,Desk,Furniture,Central,Nagpur,Consumer,In-Store,4,472.84,0.15,1607.66,1282.13,325.53
+ORD-01037,2024-03-05,Office Chair,Furniture,North,Jaipur,Consumer,Partner,7,119.74,0.2,670.54,607.86,62.68
+ORD-01045,2024-03-06,Keyboard,Technology,Central,Indore,Consumer,In-Store,3,70.82,0.1,191.21,148.95,42.26
+ORD-00329,2024-03-07,Folder,Office Supplies,Central,Bhopal,Corporate,In-Store,3,5.75,0.1,15.53,10.12,5.41
+ORD-00403,2024-03-07,Stapler,Office Supplies,West,Pune,Corporate,Online,2,23.96,0.0,47.92,28.29,19.63
+ORD-00527,2024-03-07,Keyboard,Technology,Central,Bhopal,Small Business,Partner,6,34.15,0.15,174.16,124.7,49.46
+ORD-00444,2024-03-08,Laptop,Technology,North,Jaipur,Consumer,Online,7,1063.66,0.15,6328.78,4779.72,1549.06
+ORD-00493,2024-03-08,Paper,Office Supplies,North,Jaipur,Consumer,Online,5,14.8,0.05,70.3,55.17,15.13
+ORD-00846,2024-03-08,Desk,Furniture,East,Guwahati,Consumer,Online,2,402.66,0.15,684.52,637.55,46.97
+ORD-00427,2024-03-09,Notebook,Office Supplies,South,Bengaluru,Small Business,Partner,5,8.66,0.0,43.3,34.62,8.68
+ORD-00989,2024-03-10,Pen Set,Office Supplies,West,Pune,Consumer,Partner,6,14.06,0.1,75.92,60.52,15.4
+ORD-00807,2024-03-11,Office Chair,Furniture,South,Chennai,Consumer,In-Store,5,232.28,0.0,1161.4,778.88,382.52
+ORD-00560,2024-03-12,Monitor,Technology,West,Ahmedabad,Consumer,Online,7,203.94,0.05,1356.2,792.66,563.54
+ORD-00697,2024-03-13,Office Chair,Furniture,North,Jaipur,Consumer,Online,7,295.32,0.0,2067.24,1372.97,694.27
+ORD-00343,2024-03-14,Printer,Technology,South,Bengaluru,Corporate,In-Store,6,101.96,0.1,550.58,500.83,49.75
+ORD-00369,2024-03-14,Office Chair,Furniture,West,Pune,Consumer,In-Store,5,429.67,0.0,2148.35,1163.84,984.51
+ORD-00443,2024-03-15,Office Chair,Furniture,North,Delhi,Consumer,In-Store,7,361.55,0.0,2530.85,1552.34,978.51
+ORD-00168,2024-03-16,Monitor,Technology,East,Guwahati,Consumer,Partner,5,156.59,0.15,665.51,584.3,81.21
+ORD-00171,2024-03-16,Paper,Office Supplies,South,Bengaluru,Consumer,Online,8,7.48,0.15,50.86,41.7,9.16
+ORD-01053,2024-03-16,Monitor,Technology,East,Guwahati,Corporate,Online,4,393.23,0.0,1572.92,998.86,574.06
+ORD-00035,2024-03-17,Folder,Office Supplies,West,Pune,Corporate,Online,8,6.72,0.0,53.76,37.54,16.22
+ORD-00124,2024-03-18,Monitor,Technology,East,Guwahati,Corporate,In-Store,5,169.59,0.0,847.95,481.71,366.24
+ORD-00561,2024-03-18,Paper,Office Supplies,South,Chennai,Consumer,Online,7,18.51,0.1,116.61,96.38,20.23
+ORD-00729,2024-03-18,Filing Cabinet,Furniture,West,Mumbai,Corporate,Online,1,121.01,0.1,108.91,64.93,43.98
+ORD-01017,2024-03-18,Bookshelf,Furniture,South,Bengaluru,Small Business,Partner,4,225.8,0.0,903.2,582.75,320.45
+ORD-00197,2024-03-19,Notebook,Office Supplies,Central,Bhopal,Consumer,Partner,7,4.25,0.05,28.26,20.11,8.15
+ORD-00510,2024-03-19,Desk,Furniture,North,Chandigarh,Consumer,In-Store,6,454.79,0.1,2455.87,1932.84,523.03
+ORD-00699,2024-03-19,Filing Cabinet,Furniture,West,Mumbai,Consumer,Online,4,138.27,0.05,525.43,381.32,144.11
+ORD-00752,2024-03-19,Desk,Furniture,North,Jaipur,Consumer,In-Store,1,156.42,0.1,140.78,93.66,47.12
+ORD-00854,2024-03-19,Notebook,Office Supplies,North,Delhi,Consumer,Online,5,11.76,0.0,58.8,34.24,24.56
+ORD-00652,2024-03-20,Keyboard,Technology,South,Chennai,Consumer,Partner,3,84.21,0.15,214.74,139.63,75.11
+ORD-00812,2024-03-20,Keyboard,Technology,West,Mumbai,Consumer,In-Store,1,25.37,0.15,21.56,16.93,4.63
+ORD-01106,2024-03-20,Keyboard,Technology,North,Chandigarh,Consumer,In-Store,3,37.23,0.1,100.52,89.88,10.64
+ORD-00835,2024-03-21,Filing Cabinet,Furniture,Central,Bhopal,Consumer,Online,7,247.96,0.05,1648.93,1030.32,618.61
+ORD-00517,2024-03-22,Monitor,Technology,South,Bengaluru,Consumer,Partner,2,181.11,0.0,362.22,296.92,65.3
+ORD-00599,2024-03-22,Filing Cabinet,Furniture,South,Chennai,Small Business,Partner,2,277.32,0.0,554.64,377.2,177.44
+ORD-00486,2024-03-24,Laptop,Technology,South,Chennai,Consumer,Online,7,1004.22,0.0,7029.54,3719.07,3310.47
+ORD-00974,2024-03-24,Folder,Office Supplies,West,Ahmedabad,Consumer,In-Store,8,5.5,0.05,41.8,31.59,10.21
+ORD-01093,2024-03-24,Keyboard,Technology,West,Mumbai,Corporate,Online,1,83.45,0.2,66.76,66.02,0.74
+ORD-00148,2024-03-25,Laptop,Technology,North,Chandigarh,Small Business,Online,7,667.58,0.15,3972.1,2592.2,1379.9
+ORD-00342,2024-03-25,Paper,Office Supplies,South,Chennai,Consumer,In-Store,4,4.56,0.1,16.42,13.2,3.22
+ORD-01115,2024-03-25,Filing Cabinet,Furniture,West,Ahmedabad,Small Business,Online,7,253.55,0.15,1508.62,1008.48,500.14
+ORD-00049,2024-03-26,Monitor,Technology,Central,Nagpur,Corporate,In-Store,7,155.92,0.0,1091.44,782.95,308.49
+ORD-00656,2024-03-28,Monitor,Technology,Central,Nagpur,Small Business,Online,8,217.19,0.15,1476.89,1293.84,183.05
+ORD-01009,2024-03-28,Stapler,Office Supplies,Central,Nagpur,Consumer,In-Store,1,10.86,0.05,10.32,6.61,3.71
+ORD-00655,2024-03-29,Folder,Office Supplies,East,Guwahati,Consumer,Online,5,7.16,0.1,32.22,20.94,11.28
+ORD-00286,2024-03-30,Bookshelf,Furniture,North,Jaipur,Corporate,Online,7,247.3,0.15,1471.44,1125.74,345.7
+ORD-00693,2024-03-30,Notebook,Office Supplies,West,Mumbai,Consumer,Online,6,10.18,0.1,54.97,47.89,7.08
+ORD-00684,2024-03-31,Filing Cabinet,Furniture,South,Hyderabad,Small Business,Partner,5,224.85,0.0,1124.25,732.84,391.41
+ORD-00805,2024-03-31,Desk,Furniture,South,Bengaluru,Small Business,Online,3,296.95,0.0,890.85,728.92,161.93
+ORD-01036,2024-03-31,Printer,Technology,West,Pune,Small Business,In-Store,3,274.1,0.0,822.3,607.08,215.22
+ORD-00689,2024-04-01,Folder,Office Supplies,Central,Bhopal,Consumer,In-Store,5,7.58,0.05,36.0,27.09,8.91
+ORD-00621,2024-04-02,Keyboard,Technology,Central,Nagpur,Small Business,Online,4,79.8,0.0,319.2,205.89,113.31
+ORD-00397,2024-04-03,Mouse,Technology,East,Bhubaneswar,Corporate,In-Store,3,45.79,0.2,109.9,92.27,17.63
+ORD-00570,2024-04-03,Bookshelf,Furniture,East,Guwahati,Small Business,Online,7,228.96,0.2,1282.18,1063.49,218.69
+ORD-00990,2024-04-03,Pen Set,Office Supplies,West,Mumbai,Consumer,In-Store,4,4.45,0.0,17.8,10.31,7.49
+ORD-01049,2024-04-03,Notebook,Office Supplies,West,Ahmedabad,Consumer,Online,6,2.47,0.05,14.08,11.02,3.06
+ORD-00815,2024-04-04,Stapler,Office Supplies,Central,Indore,Consumer,Online,1,24.6,0.05,23.37,17.22,6.15
+ORD-01150,2024-04-04,Filing Cabinet,Furniture,Central,Bhopal,Corporate,Online,2,265.75,0.2,425.2,372.22,52.98
+ORD-00119,2024-04-05,Printer,Technology,South,Hyderabad,Small Business,Online,7,204.29,0.0,1430.03,1037.3,392.73
+ORD-00110,2024-04-06,Stapler,Office Supplies,North,Delhi,Corporate,In-Store,5,10.46,0.0,52.3,36.52,15.78
+ORD-00129,2024-04-06,Desk,Furniture,East,Kolkata,Small Business,Online,3,288.17,0.0,864.51,696.51,168.0
+ORD-00528,2024-04-06,Desk,Furniture,West,Ahmedabad,Consumer,Online,6,138.26,0.1,746.6,677.52,69.08
+ORD-00773,2024-04-06,Notebook,Office Supplies,Central,Bhopal,Consumer,Partner,3,10.29,0.0,30.87,23.2,7.67
+ORD-00400,2024-04-07,Pen Set,Office Supplies,Central,Bhopal,Small Business,Online,5,11.45,0.05,54.39,41.02,13.37
+ORD-00559,2024-04-07,Folder,Office Supplies,Central,Bhopal,Corporate,In-Store,8,1.73,0.0,13.84,9.24,4.6
+ORD-00986,2024-04-07,Pen Set,Office Supplies,East,Kolkata,Corporate,Partner,1,6.36,0.0,6.36,3.33,3.03
+ORD-00241,2024-04-08,Office Chair,Furniture,West,Pune,Consumer,Online,8,318.83,0.1,2295.58,1842.65,452.93
+ORD-00532,2024-04-08,Monitor,Technology,South,Bengaluru,Small Business,Partner,2,231.62,0.0,463.24,271.48,191.76
+ORD-00566,2024-04-08,Keyboard,Technology,East,Bhubaneswar,Consumer,In-Store,5,68.46,0.15,290.95,263.04,27.91
+ORD-01181,2024-04-08,Mouse,Technology,South,Bengaluru,Small Business,Partner,3,18.25,0.1,49.27,37.46,11.81
+ORD-00788,2024-04-09,Pen Set,Office Supplies,West,Pune,Consumer,Online,7,9.97,0.15,59.32,49.59,9.73
+ORD-00889,2024-04-09,Desk,Furniture,South,Chennai,Corporate,Online,3,472.25,0.15,1204.24,845.12,359.12
+ORD-00123,2024-04-10,Printer,Technology,Central,Indore,Corporate,In-Store,4,110.83,0.0,443.32,304.06,139.26
+ORD-00591,2024-04-10,Mouse,Technology,South,Chennai,Small Business,In-Store,5,20.27,0.0,101.35,53.61,47.74
+ORD-00796,2024-04-10,Laptop,Technology,North,Delhi,Corporate,In-Store,3,1140.23,0.0,3420.69,2571.81,848.88
+ORD-00531,2024-04-11,Filing Cabinet,Furniture,South,Bengaluru,Consumer,In-Store,6,107.87,0.05,614.86,463.11,151.75
+ORD-00790,2024-04-11,Filing Cabinet,Furniture,West,Ahmedabad,Consumer,In-Store,7,163.83,0.05,1089.47,599.55,489.92
+ORD-00021,2024-04-12,Desk,Furniture,Central,Indore,Consumer,In-Store,5,477.43,0.1,2148.43,1319.07,829.36
+ORD-00183,2024-04-12,Folder,Office Supplies,East,Kolkata,Small Business,Online,4,2.5,0.0,10.0,6.23,3.77
+ORD-00269,2024-04-12,Monitor,Technology,North,Chandigarh,Consumer,Online,4,205.98,0.05,782.72,530.86,251.86
+ORD-00256,2024-04-13,Laptop,Technology,South,Chennai,Corporate,Partner,5,677.53,0.0,3387.65,2432.32,955.33
+ORD-00852,2024-04-14,Paper,Office Supplies,East,Kolkata,Small Business,Online,7,7.12,0.15,42.36,30.04,12.32
+ORD-00384,2024-04-15,Filing Cabinet,Furniture,East,Bhubaneswar,Consumer,Online,2,122.84,0.0,245.68,147.99,97.69
+ORD-00875,2024-04-15,Monitor,Technology,South,Hyderabad,Consumer,Online,6,376.22,0.15,1918.72,1329.38,589.34
+ORD-00793,2024-04-17,Mouse,Technology,West,Pune,Consumer,In-Store,7,42.69,0.15,254.01,158.73,95.28
+ORD-00827,2024-04-18,Monitor,Technology,East,Kolkata,Consumer,In-Store,5,356.47,0.05,1693.23,1456.06,237.17
+ORD-00535,2024-04-21,Bookshelf,Furniture,North,Delhi,Consumer,Partner,7,174.01,0.0,1218.07,857.12,360.95
+ORD-00193,2024-04-22,Laptop,Technology,South,Hyderabad,Small Business,In-Store,3,591.75,0.0,1775.25,1027.05,748.2
+ORD-00471,2024-04-22,Folder,Office Supplies,East,Bhubaneswar,Consumer,Online,8,1.76,0.15,11.97,9.37,2.6
+ORD-00809,2024-04-22,Notebook,Office Supplies,West,Ahmedabad,Consumer,Online,3,6.84,0.05,19.49,12.72,6.77
+ORD-00743,2024-04-24,Notebook,Office Supplies,South,Hyderabad,Consumer,In-Store,7,9.95,0.0,69.65,54.59,15.06
+ORD-00836,2024-04-24,Stapler,Office Supplies,East,Guwahati,Consumer,Online,6,14.07,0.15,71.76,45.79,25.97
+ORD-00483,2024-04-26,Filing Cabinet,Furniture,West,Pune,Consumer,Online,3,180.89,0.0,542.67,439.17,103.5
+ORD-00726,2024-04-26,Monitor,Technology,North,Jaipur,Corporate,Partner,8,166.66,0.0,1333.28,1018.04,315.24
+ORD-00140,2024-04-28,Monitor,Technology,West,Ahmedabad,Small Business,Online,6,125.93,0.0,755.58,437.74,317.84
+ORD-00991,2024-04-28,Office Chair,Furniture,North,Jaipur,Corporate,In-Store,5,457.24,0.1,2057.58,1825.95,231.63
+ORD-01096,2024-04-29,Office Chair,Furniture,Central,Indore,Consumer,In-Store,5,173.91,0.0,869.55,674.41,195.14
+ORD-00107,2024-04-30,Notebook,Office Supplies,South,Hyderabad,Consumer,Partner,6,2.23,0.1,12.04,9.8,2.24
+ORD-00046,2024-05-03,Filing Cabinet,Furniture,East,Guwahati,Corporate,In-Store,1,314.95,0.0,314.95,254.37,60.58
+ORD-01079,2024-05-06,Bookshelf,Furniture,Central,Bhopal,Consumer,Online,2,267.31,0.05,507.89,294.37,213.52
+ORD-00094,2024-05-09,Bookshelf,Furniture,West,Mumbai,Small Business,Online,6,132.87,0.0,797.22,491.68,305.54
+ORD-00152,2024-05-09,Folder,Office Supplies,West,Pune,Consumer,In-Store,6,7.84,0.0,47.04,30.97,16.07
+ORD-00869,2024-05-11,Notebook,Office Supplies,West,Mumbai,Corporate,In-Store,7,3.78,0.1,23.81,14.95,8.86
+ORD-00090,2024-05-16,Notebook,Office Supplies,West,Ahmedabad,Corporate,In-Store,3,6.9,0.0,20.7,14.33,6.37
+ORD-00367,2024-05-16,Office Chair,Furniture,West,Ahmedabad,Corporate,In-Store,7,162.35,0.05,1079.63,602.18,477.45
+ORD-00574,2024-05-16,Desk,Furniture,Central,Nagpur,Consumer,Online,5,392.11,0.05,1862.52,1439.35,423.17
+ORD-00632,2024-05-16,Printer,Technology,West,Mumbai,Consumer,In-Store,2,353.7,0.1,636.66,512.54,124.12
+ORD-00089,2024-05-17,Monitor,Technology,South,Bengaluru,Corporate,Partner,7,385.97,0.0,2701.79,1682.08,1019.71
+ORD-00394,2024-05-17,Desk,Furniture,North,Delhi,Small Business,In-Store,8,468.87,0.0,3750.96,2824.5,926.46
+ORD-00423,2024-05-17,Laptop,Technology,West,Mumbai,Corporate,In-Store,1,631.76,0.0,631.76,443.02,188.74
+ORD-01001,2024-05-17,Monitor,Technology,East,Bhubaneswar,Small Business,In-Store,5,339.72,0.05,1613.67,1154.64,459.03
+ORD-00907,2024-05-18,Keyboard,Technology,East,Bhubaneswar,Corporate,Online,8,77.5,0.1,558.0,351.81,206.19
+ORD-00719,2024-05-19,Laptop,Technology,West,Mumbai,Consumer,Partner,2,623.1,0.05,1183.89,995.78,188.11
+ORD-00819,2024-05-19,Pen Set,Office Supplies,South,Chennai,Consumer,Online,6,17.35,0.0,104.1,68.03,36.07
+ORD-00220,2024-05-20,Notebook,Office Supplies,North,Jaipur,Small Business,In-Store,2,4.22,0.05,8.02,5.12,2.9
+ORD-00620,2024-05-20,Keyboard,Technology,East,Kolkata,Consumer,Online,1,39.02,0.2,31.22,31.04,0.18
+ORD-00331,2024-05-21,Printer,Technology,North,Chandigarh,Consumer,Online,4,131.47,0.05,499.59,422.41,77.18
+ORD-00165,2024-05-22,Printer,Technology,South,Chennai,Consumer,Online,4,259.87,0.1,935.53,607.29,328.24
+ORD-00431,2024-05-22,Pen Set,Office Supplies,Central,Bhopal,Consumer,In-Store,4,13.16,0.1,47.38,35.01,12.37
+ORD-00759,2024-05-22,Pen Set,Office Supplies,North,Delhi,Consumer,In-Store,6,4.05,0.1,21.87,19.14,2.73
+ORD-01034,2024-05-22,Filing Cabinet,Furniture,North,Jaipur,Corporate,Online,3,285.78,0.15,728.74,514.55,214.19
+ORD-01103,2024-05-22,Filing Cabinet,Furniture,Central,Nagpur,Consumer,Partner,8,314.52,0.1,2264.54,1572.08,692.46
+ORD-00931,2024-05-23,Pen Set,Office Supplies,North,Chandigarh,Small Business,Online,7,15.31,0.15,91.09,78.4,12.69
+ORD-00965,2024-05-23,Folder,Office Supplies,South,Bengaluru,Consumer,In-Store,7,2.55,0.05,16.96,12.53,4.43
+ORD-00967,2024-05-23,Paper,Office Supplies,Central,Indore,Consumer,Partner,1,19.82,0.15,16.85,13.88,2.97
+ORD-00311,2024-05-24,Desk,Furniture,Central,Nagpur,Consumer,In-Store,1,195.67,0.1,176.1,130.98,45.12
+ORD-00408,2024-05-24,Stapler,Office Supplies,North,Delhi,Consumer,Online,7,17.29,0.05,114.98,85.35,29.63
+ORD-00029,2024-05-26,Stapler,Office Supplies,West,Mumbai,Consumer,Online,4,16.62,0.15,56.51,48.84,7.67
+ORD-00188,2024-05-26,Office Chair,Furniture,South,Hyderabad,Small Business,In-Store,3,156.01,0.0,468.03,378.78,89.25
+ORD-00387,2024-05-29,Notebook,Office Supplies,North,Delhi,Small Business,Online,4,13.69,0.1,49.28,35.38,13.9
+ORD-00669,2024-05-29,Keyboard,Technology,South,Hyderabad,Consumer,Online,1,58.95,0.1,53.06,34.14,18.92
+ORD-00167,2024-05-30,Printer,Technology,South,Chennai,Consumer,Online,4,267.04,0.15,907.94,853.35,54.59
+ORD-00698,2024-05-30,Office Chair,Furniture,South,Bengaluru,Consumer,In-Store,2,173.46,0.15,294.88,275.67,19.21
+ORD-01087,2024-05-30,Filing Cabinet,Furniture,East,Bhubaneswar,Consumer,In-Store,8,155.09,0.15,1054.61,679.69,374.92
+ORD-01117,2024-05-30,Printer,Technology,East,Bhubaneswar,Corporate,In-Store,3,249.14,0.05,710.05,531.19,178.86
+ORD-00484,2024-05-31,Filing Cabinet,Furniture,North,Jaipur,Corporate,Online,7,252.08,0.1,1588.1,1386.15,201.95
+ORD-00855,2024-06-01,Monitor,Technology,West,Pune,Corporate,Online,1,408.66,0.1,367.79,238.47,129.32
+ORD-01161,2024-06-02,Desk,Furniture,South,Hyderabad,Consumer,Online,4,335.3,0.0,1341.2,889.72,451.48
+ORD-01006,2024-06-03,Folder,Office Supplies,North,Chandigarh,Small Business,In-Store,2,2.88,0.2,4.61,3.66,0.95
+ORD-00382,2024-06-05,Folder,Office Supplies,North,Delhi,Consumer,Online,6,4.21,0.05,24.0,17.12,6.88
+ORD-00178,2024-06-06,Stapler,Office Supplies,North,Chandigarh,Small Business,Partner,3,8.21,0.15,20.94,16.48,4.46
+ORD-00370,2024-06-08,Folder,Office Supplies,North,Jaipur,Consumer,In-Store,7,7.94,0.0,55.58,42.23,13.35
+ORD-00615,2024-06-08,Notebook,Office Supplies,South,Hyderabad,Consumer,In-Store,8,12.29,0.0,98.32,79.83,18.49
+ORD-01068,2024-06-08,Bookshelf,Furniture,East,Guwahati,Corporate,In-Store,1,232.89,0.1,209.6,159.21,50.39
+ORD-00685,2024-06-09,Keyboard,Technology,South,Chennai,Consumer,Online,6,31.49,0.05,179.49,147.82,31.67
+ORD-01180,2024-06-11,Keyboard,Technology,Central,Indore,Corporate,Partner,5,77.97,0.1,350.87,297.38,53.49
+ORD-00585,2024-06-13,Folder,Office Supplies,East,Bhubaneswar,Consumer,Online,3,3.24,0.05,9.23,7.51,1.72
+ORD-00223,2024-06-15,Filing Cabinet,Furniture,Central,Indore,Corporate,In-Store,1,294.37,0.0,294.37,229.68,64.69
+ORD-01077,2024-06-15,Laptop,Technology,East,Kolkata,Consumer,Online,8,1003.57,0.05,7627.13,6546.55,1080.58
+ORD-01059,2024-06-16,Laptop,Technology,South,Chennai,Consumer,In-Store,7,732.51,0.0,5127.57,3624.45,1503.12
+ORD-01136,2024-06-17,Printer,Technology,South,Hyderabad,Corporate,Online,8,204.27,0.1,1470.74,1305.06,165.68
+ORD-00111,2024-06-18,Keyboard,Technology,North,Chandigarh,Corporate,Online,2,63.87,0.15,108.58,76.15,32.43
+ORD-01089,2024-06-18,Paper,Office Supplies,South,Bengaluru,Corporate,Partner,2,13.95,0.0,27.9,17.7,10.2
+ORD-00033,2024-06-19,Printer,Technology,Central,Nagpur,Corporate,Online,4,321.08,0.05,1220.1,901.34,318.76
+ORD-00428,2024-06-19,Notebook,Office Supplies,West,Mumbai,Consumer,Online,6,13.14,0.05,74.9,41.08,33.82
+ORD-01090,2024-06-19,Paper,Office Supplies,Central,Indore,Consumer,Online,2,11.07,0.2,17.71,16.1,1.61
+ORD-00093,2024-06-20,Folder,Office Supplies,South,Hyderabad,Corporate,In-Store,4,7.28,0.0,29.12,23.08,6.04
+ORD-00354,2024-06-20,Stapler,Office Supplies,North,Jaipur,Corporate,Online,6,21.93,0.2,105.26,85.01,20.25
+ORD-00912,2024-06-20,Office Chair,Furniture,West,Pune,Small Business,Partner,8,235.27,0.0,1882.16,1010.3,871.86
+ORD-00661,2024-06-22,Filing Cabinet,Furniture,South,Chennai,Small Business,Online,5,269.33,0.2,1077.32,792.28,285.04
+ORD-00733,2024-06-22,Bookshelf,Furniture,South,Bengaluru,Small Business,Online,8,209.28,0.0,1674.24,1302.77,371.47
+ORD-00964,2024-06-22,Keyboard,Technology,West,Mumbai,Consumer,Partner,2,68.77,0.0,137.54,72.63,64.91
+ORD-01135,2024-06-24,Printer,Technology,South,Hyderabad,Consumer,In-Store,5,255.1,0.2,1020.4,992.4,28.0
+ORD-00250,2024-06-25,Stapler,Office Supplies,South,Chennai,Small Business,Partner,5,21.66,0.0,108.3,70.61,37.69
+ORD-00432,2024-06-25,Office Chair,Furniture,South,Hyderabad,Consumer,Online,1,146.6,0.0,146.6,118.19,28.41
+ORD-00707,2024-06-25,Folder,Office Supplies,East,Guwahati,Corporate,In-Store,6,7.94,0.0,47.64,26.1,21.54
+ORD-00101,2024-06-26,Bookshelf,Furniture,South,Bengaluru,Consumer,Partner,5,137.72,0.05,654.17,499.22,154.95
+ORD-00401,2024-06-27,Filing Cabinet,Furniture,Central,Indore,Corporate,Online,4,234.61,0.1,844.6,511.77,332.83
+ORD-00409,2024-06-27,Mouse,Technology,East,Kolkata,Consumer,Online,2,34.3,0.15,58.31,43.37,14.94
+ORD-00426,2024-06-28,Monitor,Technology,North,Chandigarh,Corporate,In-Store,2,206.5,0.0,413.0,218.09,194.91
+ORD-00062,2024-06-30,Keyboard,Technology,East,Guwahati,Consumer,In-Store,7,67.0,0.1,422.1,264.3,157.8
+ORD-00240,2024-06-30,Notebook,Office Supplies,East,Kolkata,Corporate,In-Store,6,12.92,0.0,77.52,53.54,23.98
+ORD-00868,2024-07-02,Stapler,Office Supplies,East,Kolkata,Corporate,In-Store,8,20.46,0.0,163.68,131.41,32.27
+ORD-00455,2024-07-03,Pen Set,Office Supplies,Central,Nagpur,Consumer,In-Store,3,10.74,0.05,30.61,17.73,12.88
+ORD-00607,2024-07-03,Bookshelf,Furniture,South,Hyderabad,Corporate,Online,2,275.8,0.1,496.44,333.79,162.65
+ORD-00798,2024-07-03,Mouse,Technology,Central,Nagpur,Consumer,In-Store,2,46.63,0.05,88.6,63.58,25.02
+ORD-00047,2024-07-04,Folder,Office Supplies,West,Pune,Consumer,In-Store,1,7.62,0.1,6.86,4.18,2.68
+ORD-00405,2024-07-04,Office Chair,Furniture,West,Mumbai,Corporate,Online,3,109.17,0.0,327.51,267.12,60.39
+ORD-00221,2024-07-05,Filing Cabinet,Furniture,South,Bengaluru,Consumer,In-Store,1,159.42,0.0,159.42,128.04,31.38
+ORD-00441,2024-07-06,Monitor,Technology,Central,Indore,Consumer,Online,4,215.75,0.2,690.4,634.83,55.57
+ORD-01030,2024-07-06,Laptop,Technology,West,Mumbai,Consumer,Partner,7,922.12,0.0,6454.84,5028.61,1426.23
+ORD-01159,2024-07-06,Notebook,Office Supplies,North,Jaipur,Consumer,Online,7,11.37,0.0,79.59,61.09,18.5
+ORD-00157,2024-07-07,Desk,Furniture,South,Bengaluru,Consumer,Online,5,412.5,0.1,1856.25,1384.46,471.79
+ORD-00701,2024-07-07,Monitor,Technology,East,Bhubaneswar,Corporate,Online,4,138.64,0.15,471.38,413.43,57.95
+ORD-00631,2024-07-08,Notebook,Office Supplies,South,Hyderabad,Small Business,Online,3,11.65,0.1,31.46,22.47,8.99
+ORD-00294,2024-07-09,Pen Set,Office Supplies,South,Chennai,Consumer,Online,3,12.94,0.0,38.82,31.1,7.72
+ORD-00864,2024-07-09,Desk,Furniture,West,Pune,Consumer,Online,5,157.16,0.0,785.8,594.92,190.88
+ORD-00215,2024-07-12,Folder,Office Supplies,South,Chennai,Corporate,In-Store,5,7.75,0.05,36.81,25.18,11.63
+ORD-00586,2024-07-12,Stapler,Office Supplies,Central,Indore,Corporate,Online,6,16.64,0.0,99.84,74.69,25.15
+ORD-00919,2024-07-12,Notebook,Office Supplies,Central,Bhopal,Consumer,Online,6,7.11,0.1,38.39,30.22,8.17
+ORD-01031,2024-07-13,Folder,Office Supplies,South,Chennai,Consumer,Online,3,1.83,0.1,4.94,3.11,1.83
+ORD-00666,2024-07-14,Printer,Technology,South,Chennai,Consumer,In-Store,8,119.9,0.0,959.2,744.8,214.4
+ORD-00938,2024-07-14,Bookshelf,Furniture,West,Mumbai,Consumer,Online,5,258.94,0.0,1294.7,762.16,532.54
+ORD-00994,2024-07-14,Paper,Office Supplies,East,Bhubaneswar,Corporate,Partner,4,12.8,0.0,51.2,31.45,19.75
+ORD-01066,2024-07-14,Keyboard,Technology,Central,Bhopal,Small Business,Online,6,84.01,0.1,453.65,404.88,48.77
+ORD-01118,2024-07-14,Filing Cabinet,Furniture,East,Kolkata,Consumer,Online,4,194.4,0.05,738.72,536.47,202.25
+ORD-00379,2024-07-16,Printer,Technology,West,Mumbai,Consumer,Online,4,278.45,0.05,1058.11,594.43,463.68
+ORD-01169,2024-07-16,Stapler,Office Supplies,East,Guwahati,Corporate,Partner,7,7.03,0.1,44.29,31.47,12.82
+ORD-00649,2024-07-17,Pen Set,Office Supplies,East,Guwahati,Consumer,Online,3,16.29,0.15,41.54,35.12,6.42
+ORD-00881,2024-07-17,Bookshelf,Furniture,North,Delhi,Small Business,Online,8,94.02,0.0,752.16,556.33,195.83
+ORD-00015,2024-07-18,Mouse,Technology,West,Mumbai,Consumer,Online,6,34.71,0.0,208.26,164.69,43.57
+ORD-00358,2024-07-18,Bookshelf,Furniture,West,Mumbai,Corporate,Online,6,141.69,0.15,722.62,659.79,62.83
+ORD-00034,2024-07-19,Stapler,Office Supplies,North,Chandigarh,Consumer,Online,3,13.52,0.1,36.5,31.65,4.85
+ORD-00609,2024-07-19,Paper,Office Supplies,Central,Indore,Corporate,Online,1,8.37,0.15,7.11,4.76,2.35
+ORD-00141,2024-07-20,Stapler,Office Supplies,West,Mumbai,Small Business,Online,7,7.59,0.0,53.13,32.15,20.98
+ORD-00657,2024-07-20,Folder,Office Supplies,South,Hyderabad,Consumer,Online,6,2.13,0.15,10.86,8.46,2.4
+ORD-00830,2024-07-20,Keyboard,Technology,South,Bengaluru,Consumer,In-Store,2,51.6,0.05,98.04,60.35,37.69
+ORD-01190,2024-07-20,Mouse,Technology,North,Delhi,Consumer,Online,7,51.11,0.05,339.88,266.24,73.64
+ORD-00746,2024-07-21,Folder,Office Supplies,East,Bhubaneswar,Consumer,In-Store,4,5.3,0.05,20.14,16.06,4.08
+ORD-01070,2024-07-21,Mouse,Technology,South,Chennai,Consumer,Online,3,44.41,0.0,133.23,79.82,53.41
+ORD-01107,2024-07-22,Pen Set,Office Supplies,East,Guwahati,Consumer,Online,1,13.1,0.0,13.1,8.17,4.93
+ORD-00277,2024-07-23,Notebook,Office Supplies,Central,Bhopal,Small Business,Online,2,7.38,0.15,12.55,9.4,3.15
+ORD-00474,2024-07-24,Office Chair,Furniture,North,Chandigarh,Consumer,Online,1,404.49,0.15,343.82,277.46,66.36
+ORD-01062,2024-07-24,Paper,Office Supplies,East,Guwahati,Corporate,Online,1,20.94,0.0,20.94,12.52,8.42
+ORD-00268,2024-07-25,Pen Set,Office Supplies,South,Hyderabad,Consumer,In-Store,6,4.74,0.15,24.17,18.96,5.21
+ORD-00569,2024-07-25,Filing Cabinet,Furniture,Central,Nagpur,Consumer,In-Store,4,303.61,0.15,1032.27,881.39,150.88
+ORD-00181,2024-07-26,Stapler,Office Supplies,West,Mumbai,Consumer,Online,1,21.75,0.0,21.75,17.02,4.73
+ORD-00749,2024-07-28,Filing Cabinet,Furniture,North,Jaipur,Consumer,In-Store,7,262.06,0.1,1650.98,1299.02,351.96
+ORD-01047,2024-07-28,Laptop,Technology,South,Hyderabad,Corporate,In-Store,8,981.11,0.0,7848.88,5737.18,2111.7
+ORD-00007,2024-07-29,Office Chair,Furniture,Central,Nagpur,Consumer,In-Store,8,230.3,0.1,1658.16,1035.29,622.87
+ORD-00782,2024-07-29,Pen Set,Office Supplies,East,Bhubaneswar,Corporate,In-Store,5,6.79,0.1,30.56,17.97,12.59
+ORD-00950,2024-08-01,Stapler,Office Supplies,Central,Nagpur,Small Business,Online,2,18.04,0.05,34.28,18.84,15.44
+ORD-01048,2024-08-01,Bookshelf,Furniture,Central,Bhopal,Corporate,In-Store,4,124.86,0.15,424.52,289.21,135.31
+ORD-01200,2024-08-02,Stapler,Office Supplies,West,Pune,Small Business,In-Store,3,13.56,0.2,32.54,31.36,1.18
+ORD-00724,2024-08-04,Desk,Furniture,North,Jaipur,Small Business,In-Store,1,492.31,0.1,443.08,396.41,46.67
+ORD-00232,2024-08-05,Folder,Office Supplies,East,Kolkata,Consumer,In-Store,3,7.07,0.1,19.09,16.66,2.43
+ORD-00214,2024-08-06,Paper,Office Supplies,South,Chennai,Corporate,Online,7,8.76,0.15,52.12,34.46,17.66
+ORD-00603,2024-08-06,Mouse,Technology,South,Chennai,Consumer,In-Store,7,33.72,0.1,212.44,140.11,72.33
+ORD-01128,2024-08-06,Folder,Office Supplies,South,Chennai,Corporate,In-Store,8,2.38,0.0,19.04,15.34,3.7
+ORD-00362,2024-08-07,Office Chair,Furniture,South,Hyderabad,Consumer,Partner,2,326.05,0.2,521.68,387.46,134.22
+ORD-00720,2024-08-07,Bookshelf,Furniture,North,Delhi,Corporate,Online,4,161.08,0.05,612.1,395.39,216.71
+ORD-00099,2024-08-08,Stapler,Office Supplies,West,Mumbai,Consumer,Partner,8,9.14,0.05,69.46,47.16,22.3
+ORD-00463,2024-08-08,Monitor,Technology,West,Ahmedabad,Consumer,In-Store,4,305.91,0.0,1223.64,991.18,232.46
+ORD-00292,2024-08-09,Notebook,Office Supplies,North,Chandigarh,Consumer,Partner,2,8.32,0.0,16.64,12.74,3.9
+ORD-01187,2024-08-09,Bookshelf,Furniture,North,Delhi,Small Business,In-Store,5,120.17,0.0,600.85,343.99,256.86
+ORD-01075,2024-08-10,Laptop,Technology,East,Kolkata,Consumer,In-Store,4,1040.57,0.1,3746.05,3265.67,480.38
+ORD-00074,2024-08-11,Office Chair,Furniture,Central,Bhopal,Small Business,Online,7,247.67,0.05,1647.01,979.88,667.13
+ORD-00317,2024-08-11,Mouse,Technology,East,Kolkata,Small Business,In-Store,6,27.98,0.0,167.88,105.68,62.2
+ORD-00300,2024-08-12,Printer,Technology,East,Bhubaneswar,Consumer,Online,3,201.92,0.0,605.76,362.59,243.17
+ORD-00477,2024-08-12,Keyboard,Technology,West,Pune,Corporate,Online,2,28.81,0.05,54.74,35.53,19.21
+ORD-01116,2024-08-12,Keyboard,Technology,East,Guwahati,Consumer,Online,3,60.63,0.2,145.51,101.11,44.4
+ORD-00364,2024-08-13,Bookshelf,Furniture,West,Mumbai,Consumer,Partner,4,105.27,0.1,378.97,318.09,60.88
+ORD-00435,2024-08-13,Mouse,Technology,Central,Bhopal,Corporate,Online,7,15.58,0.1,98.15,58.12,40.03
+ORD-01002,2024-08-13,Notebook,Office Supplies,West,Mumbai,Corporate,In-Store,5,9.0,0.1,40.5,30.76,9.74
+ORD-00665,2024-08-15,Monitor,Technology,Central,Bhopal,Corporate,Online,6,187.18,0.0,1123.08,687.51,435.57
+ORD-00818,2024-08-15,Printer,Technology,Central,Nagpur,Consumer,Online,5,123.83,0.0,619.15,441.06,178.09
+ORD-00831,2024-08-15,Paper,Office Supplies,North,Chandigarh,Consumer,In-Store,2,12.74,0.05,24.21,16.57,7.64
+ORD-01078,2024-08-15,Office Chair,Furniture,East,Kolkata,Corporate,Online,8,455.9,0.0,3647.2,2569.74,1077.46
+ORD-00850,2024-08-16,Desk,Furniture,South,Chennai,Corporate,Online,5,397.84,0.15,1690.82,1065.18,625.64
+ORD-00859,2024-08-17,Paper,Office Supplies,South,Chennai,Small Business,In-Store,7,13.12,0.15,78.06,63.6,14.46
+ORD-00537,2024-08-18,Stapler,Office Supplies,South,Hyderabad,Corporate,In-Store,4,8.87,0.15,30.16,26.93,3.23
+ORD-00673,2024-08-19,Monitor,Technology,South,Hyderabad,Consumer,In-Store,2,165.22,0.05,313.92,196.19,117.73
+ORD-00858,2024-08-19,Laptop,Technology,North,Delhi,Small Business,In-Store,4,665.99,0.05,2530.76,1738.2,792.56
+ORD-00663,2024-08-20,Printer,Technology,North,Chandigarh,Consumer,Online,1,197.43,0.0,197.43,139.46,57.97
+ORD-00856,2024-08-20,Laptop,Technology,East,Kolkata,Small Business,In-Store,8,1004.14,0.0,8033.12,5261.15,2771.97
+ORD-00096,2024-08-21,Folder,Office Supplies,West,Mumbai,Corporate,Partner,8,6.51,0.0,52.08,35.86,16.22
+ORD-00135,2024-08-21,Office Chair,Furniture,South,Hyderabad,Corporate,Online,6,430.69,0.1,2325.73,1701.22,624.51
+ORD-00853,2024-08-21,Desk,Furniture,North,Delhi,Corporate,Online,8,366.67,0.0,2933.36,2054.34,879.02
+ORD-00987,2024-08-21,Folder,Office Supplies,Central,Nagpur,Consumer,Online,6,3.73,0.2,17.9,16.8,1.1
+ORD-00040,2024-08-22,Pen Set,Office Supplies,West,Ahmedabad,Corporate,In-Store,1,15.65,0.15,13.3,12.74,0.56
+ORD-00251,2024-08-22,Filing Cabinet,Furniture,West,Mumbai,Corporate,Online,1,158.25,0.05,150.34,108.91,41.43
+ORD-00299,2024-08-22,Desk,Furniture,Central,Indore,Consumer,Online,7,165.95,0.05,1103.57,791.26,312.31
+ORD-00762,2024-08-22,Desk,Furniture,West,Ahmedabad,Corporate,Online,1,362.6,0.15,308.21,248.43,59.78
+ORD-00910,2024-08-22,Keyboard,Technology,North,Chandigarh,Consumer,In-Store,1,92.62,0.1,83.36,74.18,9.18
+ORD-00459,2024-08-23,Keyboard,Technology,East,Kolkata,Consumer,Online,4,43.32,0.0,173.28,121.1,52.18
+ORD-00671,2024-08-23,Printer,Technology,West,Mumbai,Small Business,Online,4,216.12,0.1,778.03,456.15,321.88
+ORD-00786,2024-08-23,Laptop,Technology,West,Pune,Corporate,Online,7,622.13,0.2,3483.93,3033.43,450.5
+ORD-00169,2024-08-24,Office Chair,Furniture,North,Jaipur,Consumer,Partner,1,235.47,0.2,188.38,163.19,25.19
+ORD-00578,2024-08-24,Bookshelf,Furniture,South,Hyderabad,Consumer,In-Store,7,263.28,0.0,1842.96,1477.9,365.06
+ORD-00272,2024-08-25,Laptop,Technology,Central,Bhopal,Corporate,In-Store,4,635.24,0.15,2159.82,2039.68,120.14
+ORD-00745,2024-08-25,Office Chair,Furniture,West,Pune,Corporate,Online,5,229.21,0.1,1031.44,842.36,189.08
+ORD-00959,2024-08-25,Laptop,Technology,East,Bhubaneswar,Consumer,In-Store,6,771.5,0.0,4629.0,3322.01,1306.99
+ORD-01198,2024-08-25,Monitor,Technology,West,Pune,Corporate,In-Store,6,307.53,0.05,1752.92,1274.77,478.15
+ORD-00005,2024-08-26,Stapler,Office Supplies,West,Ahmedabad,Consumer,Online,4,24.35,0.05,92.53,64.37,28.16
+ORD-00511,2024-08-27,Desk,Furniture,East,Bhubaneswar,Corporate,Online,2,221.0,0.2,353.6,312.63,40.97
+ORD-00915,2024-08-27,Laptop,Technology,South,Hyderabad,Small Business,Online,2,748.37,0.0,1496.74,828.75,667.99
+ORD-00940,2024-08-27,Paper,Office Supplies,East,Kolkata,Consumer,Online,2,21.32,0.2,34.11,27.06,7.05
+ORD-01097,2024-08-27,Folder,Office Supplies,South,Bengaluru,Corporate,Online,3,6.49,0.2,15.58,11.69,3.89
+ORD-00128,2024-08-28,Bookshelf,Furniture,South,Bengaluru,Consumer,In-Store,2,267.4,0.15,454.58,402.82,51.76
+ORD-00554,2024-08-29,Mouse,Technology,West,Pune,Consumer,In-Store,4,32.86,0.0,131.44,89.56,41.88
+ORD-01173,2024-08-29,Pen Set,Office Supplies,Central,Indore,Consumer,In-Store,2,15.83,0.1,28.49,21.78,6.71
+ORD-00417,2024-08-30,Paper,Office Supplies,North,Jaipur,Consumer,Online,7,9.98,0.05,66.37,40.32,26.05
+ORD-00862,2024-08-30,Notebook,Office Supplies,Central,Nagpur,Consumer,In-Store,5,10.55,0.0,52.75,39.12,13.63
+ORD-00866,2024-08-30,Stapler,Office Supplies,East,Guwahati,Consumer,In-Store,1,24.82,0.0,24.82,17.86,6.96
+ORD-01083,2024-08-31,Notebook,Office Supplies,Central,Indore,Corporate,In-Store,7,8.99,0.05,59.78,46.42,13.36
+ORD-00267,2024-09-01,Notebook,Office Supplies,West,Mumbai,Consumer,Partner,5,5.42,0.15,23.04,18.32,4.72
+ORD-01095,2024-09-01,Folder,Office Supplies,South,Chennai,Small Business,In-Store,6,3.78,0.1,20.41,18.33,2.08
+ORD-00947,2024-09-02,Laptop,Technology,South,Chennai,Consumer,In-Store,3,957.05,0.0,2871.15,1501.82,1369.33
+ORD-00503,2024-09-03,Desk,Furniture,West,Pune,Small Business,In-Store,2,320.15,0.1,576.27,454.1,122.17
+ORD-00937,2024-09-03,Bookshelf,Furniture,Central,Bhopal,Corporate,Online,7,275.75,0.05,1833.74,1061.9,771.84
+ORD-00079,2024-09-04,Filing Cabinet,Furniture,West,Pune,Consumer,Online,1,136.71,0.0,136.71,72.11,64.6
+ORD-00305,2024-09-04,Office Chair,Furniture,East,Guwahati,Small Business,In-Store,8,155.54,0.1,1119.89,723.33,396.56
+ORD-00909,2024-09-04,Notebook,Office Supplies,North,Chandigarh,Corporate,Online,1,5.43,0.0,5.43,3.64,1.79
+ORD-00206,2024-09-05,Office Chair,Furniture,North,Chandigarh,Consumer,Online,7,253.09,0.15,1505.89,1049.21,456.68
+ORD-00623,2024-09-05,Monitor,Technology,East,Guwahati,Consumer,Online,8,363.27,0.15,2470.24,1749.83,720.41
+ORD-00284,2024-09-06,Mouse,Technology,South,Hyderabad,Consumer,Online,2,30.82,0.05,58.56,38.32,20.24
+ORD-00540,2024-09-06,Office Chair,Furniture,West,Mumbai,Consumer,In-Store,8,265.21,0.0,2121.68,1256.98,864.7
+ORD-00351,2024-09-07,Keyboard,Technology,East,Guwahati,Consumer,Partner,3,61.15,0.0,183.45,108.67,74.78
+ORD-01020,2024-09-07,Laptop,Technology,West,Pune,Consumer,In-Store,6,1140.1,0.0,6840.6,3687.99,3152.61
+ORD-00166,2024-09-08,Monitor,Technology,East,Bhubaneswar,Consumer,Online,2,160.41,0.15,272.7,197.66,75.04
+ORD-00575,2024-09-08,Keyboard,Technology,North,Delhi,Corporate,Online,2,60.62,0.2,96.99,85.87,11.12
+ORD-01086,2024-09-08,Desk,Furniture,East,Kolkata,Consumer,In-Store,7,242.62,0.0,1698.34,1015.25,683.09
+ORD-00970,2024-09-09,Laptop,Technology,South,Hyderabad,Consumer,In-Store,8,854.13,0.15,5808.08,5435.74,372.34
+ORD-00083,2024-09-10,Pen Set,Office Supplies,West,Pune,Consumer,Partner,6,14.25,0.0,85.5,45.51,39.99
+ORD-00709,2024-09-10,Desk,Furniture,East,Kolkata,Consumer,Partner,8,212.87,0.1,1532.66,1061.81,470.85
+ORD-00162,2024-09-11,Laptop,Technology,West,Pune,Consumer,Online,3,905.86,0.1,2445.82,2087.06,358.76
+ORD-00462,2024-09-11,Notebook,Office Supplies,North,Delhi,Consumer,In-Store,1,11.5,0.05,10.92,8.7,2.22
+ORD-00279,2024-09-12,Desk,Furniture,South,Bengaluru,Small Business,In-Store,4,255.64,0.1,920.3,674.84,245.46
+ORD-00350,2024-09-13,Office Chair,Furniture,East,Kolkata,Small Business,In-Store,7,423.31,0.15,2518.69,2393.88,124.81
+ORD-00741,2024-09-13,Stapler,Office Supplies,South,Hyderabad,Consumer,Online,3,6.29,0.0,18.87,13.56,5.31
+ORD-00727,2024-09-14,Office Chair,Furniture,South,Hyderabad,Corporate,In-Store,4,394.99,0.05,1500.96,1032.79,468.17
+ORD-00421,2024-09-15,Printer,Technology,North,Chandigarh,Consumer,Online,3,263.57,0.0,790.71,455.32,335.39
+ORD-00997,2024-09-15,Printer,Technology,North,Chandigarh,Consumer,Online,3,326.05,0.05,929.24,622.29,306.95
+ORD-01041,2024-09-15,Folder,Office Supplies,North,Jaipur,Corporate,Online,8,6.63,0.05,50.39,31.13,19.26
+ORD-00870,2024-09-17,Office Chair,Furniture,West,Mumbai,Consumer,Online,2,198.99,0.2,318.38,260.52,57.86
+ORD-00811,2024-09-18,Monitor,Technology,East,Kolkata,Consumer,In-Store,6,307.75,0.0,1846.5,1434.45,412.05
+ORD-00821,2024-09-19,Notebook,Office Supplies,Central,Bhopal,Consumer,Online,2,10.65,0.0,21.3,13.78,7.52
+ORD-01122,2024-09-19,Pen Set,Office Supplies,Central,Indore,Consumer,Online,8,13.22,0.1,95.18,70.86,24.32
+ORD-00596,2024-09-21,Desk,Furniture,South,Bengaluru,Small Business,Online,8,181.72,0.0,1453.76,828.15,625.61
+ORD-00757,2024-09-21,Folder,Office Supplies,West,Pune,Consumer,In-Store,6,7.08,0.05,40.36,28.66,11.7
+ORD-01052,2024-09-22,Mouse,Technology,West,Mumbai,Corporate,In-Store,6,13.29,0.05,75.75,48.59,27.16
+ORD-00208,2024-09-23,Monitor,Technology,Central,Indore,Corporate,Partner,3,190.8,0.1,515.16,457.35,57.81
+ORD-01023,2024-09-25,Filing Cabinet,Furniture,East,Bhubaneswar,Consumer,Partner,4,276.33,0.1,994.79,744.44,250.35
+ORD-00337,2024-09-26,Printer,Technology,North,Chandigarh,Small Business,Partner,7,253.36,0.1,1596.17,1407.57,188.6
+ORD-00941,2024-09-26,Folder,Office Supplies,Central,Bhopal,Small Business,Online,5,2.55,0.05,12.11,7.11,5.0
+ORD-00492,2024-09-27,Notebook,Office Supplies,West,Ahmedabad,Corporate,Online,4,4.21,0.0,16.84,10.51,6.33
+ORD-01112,2024-09-27,Keyboard,Technology,West,Mumbai,Consumer,In-Store,5,34.38,0.1,154.71,132.09,22.62
+ORD-00201,2024-09-28,Notebook,Office Supplies,West,Pune,Corporate,Online,6,13.53,0.05,77.12,61.99,15.13
+ORD-00039,2024-09-30,Folder,Office Supplies,East,Kolkata,Consumer,Partner,1,1.34,0.05,1.27,0.74,0.53
+ORD-00202,2024-09-30,Bookshelf,Furniture,East,Bhubaneswar,Corporate,Partner,2,226.49,0.0,452.98,262.54,190.44
+ORD-00290,2024-09-30,Mouse,Technology,West,Pune,Consumer,Online,3,37.64,0.05,107.27,67.44,39.83
+ORD-00446,2024-09-30,Printer,Technology,Central,Bhopal,Consumer,In-Store,3,241.02,0.0,723.06,554.25,168.81
+ORD-00339,2024-10-02,Stapler,Office Supplies,East,Kolkata,Consumer,Online,2,20.63,0.0,41.26,27.76,13.5
+ORD-00271,2024-10-03,Printer,Technology,South,Hyderabad,Consumer,Online,1,324.99,0.05,308.74,226.86,81.88
+ORD-00301,2024-10-03,Paper,Office Supplies,East,Kolkata,Small Business,In-Store,1,17.89,0.1,16.1,14.49,1.61
+ORD-00799,2024-10-03,Paper,Office Supplies,South,Bengaluru,Corporate,Partner,4,4.77,0.2,15.26,12.69,2.57
+ORD-01165,2024-10-03,Monitor,Technology,South,Hyderabad,Consumer,Online,5,279.3,0.05,1326.67,1045.92,280.75
+ORD-00130,2024-10-04,Office Chair,Furniture,South,Hyderabad,Small Business,Online,5,162.89,0.0,814.45,430.86,383.59
+ORD-00086,2024-10-06,Monitor,Technology,West,Mumbai,Consumer,In-Store,7,379.64,0.1,2391.73,2020.38,371.35
+ORD-00829,2024-10-06,Bookshelf,Furniture,North,Delhi,Consumer,In-Store,3,227.5,0.1,614.25,405.61,208.64
+ORD-00192,2024-10-07,Folder,Office Supplies,South,Bengaluru,Small Business,Partner,2,2.44,0.2,3.9,2.86,1.04
+ORD-00592,2024-10-07,Printer,Technology,North,Delhi,Consumer,Online,3,256.99,0.1,693.87,592.58,101.29
+ORD-00721,2024-10-07,Bookshelf,Furniture,West,Pune,Consumer,Online,5,112.25,0.0,561.25,384.92,176.33
+ORD-00309,2024-10-08,Filing Cabinet,Furniture,Central,Bhopal,Consumer,In-Store,4,113.5,0.0,454.0,284.04,169.96
+ORD-00958,2024-10-08,Laptop,Technology,Central,Nagpur,Consumer,Online,8,826.33,0.0,6610.64,4303.03,2307.61
+ORD-01146,2024-10-08,Desk,Furniture,East,Guwahati,Consumer,Online,4,371.34,0.05,1411.09,791.78,619.31
+ORD-00361,2024-10-10,Pen Set,Office Supplies,West,Mumbai,Small Business,Online,1,10.99,0.15,9.34,8.05,1.29
+ORD-01162,2024-10-10,Desk,Furniture,West,Ahmedabad,Corporate,Online,1,253.57,0.1,228.21,141.84,86.37
+ORD-00487,2024-10-11,Paper,Office Supplies,West,Ahmedabad,Consumer,Online,2,10.3,0.0,20.6,16.02,4.58
+ORD-00716,2024-10-11,Paper,Office Supplies,West,Ahmedabad,Corporate,Online,8,19.92,0.2,127.49,103.32,24.17
+ORD-01005,2024-10-13,Paper,Office Supplies,North,Jaipur,Consumer,In-Store,2,5.57,0.0,11.14,6.91,4.23
+ORD-00289,2024-10-14,Paper,Office Supplies,East,Kolkata,Small Business,Online,8,8.77,0.05,66.65,54.99,11.66
+ORD-00977,2024-10-14,Keyboard,Technology,North,Chandigarh,Small Business,Online,4,20.84,0.2,66.69,61.62,5.07
+ORD-01105,2024-10-14,Bookshelf,Furniture,East,Bhubaneswar,Consumer,Partner,4,194.57,0.05,739.37,429.39,309.98
+ORD-00968,2024-10-15,Bookshelf,Furniture,South,Chennai,Corporate,Online,5,182.92,0.0,914.6,598.6,316.0
+ORD-00320,2024-10-16,Filing Cabinet,Furniture,East,Kolkata,Consumer,In-Store,1,234.87,0.2,187.9,140.28,47.62
+ORD-00357,2024-10-18,Printer,Technology,West,Mumbai,Consumer,In-Store,3,219.71,0.05,626.17,457.83,168.34
+ORD-00131,2024-10-19,Stapler,Office Supplies,West,Ahmedabad,Corporate,In-Store,8,14.3,0.05,108.68,65.91,42.77
+ORD-00735,2024-10-19,Bookshelf,Furniture,South,Bengaluru,Consumer,Online,4,105.38,0.15,358.29,293.99,64.3
+ORD-00702,2024-10-20,Stapler,Office Supplies,Central,Bhopal,Small Business,Online,4,8.88,0.1,31.97,24.7,7.27
+ORD-00960,2024-10-21,Bookshelf,Furniture,North,Jaipur,Corporate,In-Store,4,237.15,0.2,758.88,530.46,228.42
+ORD-00125,2024-10-22,Notebook,Office Supplies,South,Hyderabad,Small Business,Online,7,6.46,0.1,40.7,33.99,6.71
+ORD-00327,2024-10-22,Pen Set,Office Supplies,East,Bhubaneswar,Corporate,In-Store,4,3.74,0.1,13.46,10.41,3.05
+ORD-00502,2024-10-22,Printer,Technology,North,Delhi,Consumer,Online,8,137.87,0.2,882.37,681.71,200.66
+ORD-01133,2024-10-22,Printer,Technology,South,Bengaluru,Consumer,Partner,8,360.19,0.15,2449.29,2021.48,427.81
+ORD-00896,2024-10-23,Keyboard,Technology,North,Jaipur,Corporate,Online,6,66.26,0.15,337.93,294.98,42.95
+ORD-01183,2024-10-23,Bookshelf,Furniture,East,Guwahati,Small Business,Online,7,88.97,0.05,591.65,444.99,146.66
+ORD-00347,2024-10-24,Notebook,Office Supplies,Central,Indore,Corporate,Online,3,3.06,0.2,7.34,7.39,-0.05
+ORD-00139,2024-10-25,Keyboard,Technology,West,Ahmedabad,Corporate,In-Store,6,44.36,0.05,252.85,148.45,104.4
+ORD-00622,2024-10-25,Stapler,Office Supplies,Central,Indore,Consumer,In-Store,5,8.11,0.1,36.49,32.23,4.26
+ORD-00624,2024-10-25,Keyboard,Technology,Central,Bhopal,Consumer,Partner,3,68.83,0.0,206.49,114.27,92.22
+ORD-00100,2024-10-26,Laptop,Technology,North,Chandigarh,Corporate,In-Store,1,981.94,0.05,932.84,608.73,324.11
+ORD-00496,2024-10-27,Stapler,Office Supplies,East,Guwahati,Small Business,Online,7,22.04,0.15,131.14,114.03,17.11
+ORD-00270,2024-10-29,Bookshelf,Furniture,West,Mumbai,Consumer,Online,5,148.48,0.1,668.16,410.25,257.91
+ORD-00434,2024-10-29,Bookshelf,Furniture,West,Mumbai,Consumer,Online,8,169.24,0.2,1083.14,928.66,154.48
+ORD-00606,2024-10-29,Monitor,Technology,West,Ahmedabad,Consumer,Online,2,229.83,0.0,459.66,243.11,216.55
+ORD-00747,2024-10-29,Mouse,Technology,West,Ahmedabad,Consumer,Partner,1,60.34,0.1,54.31,39.98,14.33
+ORD-00082,2024-10-31,Notebook,Office Supplies,East,Guwahati,Small Business,Online,6,7.28,0.1,39.31,31.28,8.03
+ORD-00297,2024-10-31,Printer,Technology,South,Chennai,Corporate,Online,6,221.21,0.0,1327.26,1047.89,279.37
+ORD-00679,2024-10-31,Monitor,Technology,East,Guwahati,Corporate,Online,8,355.18,0.2,2273.15,1725.16,547.99
+ORD-00700,2024-10-31,Monitor,Technology,Central,Bhopal,Consumer,In-Store,3,258.23,0.1,697.22,521.22,176.0
+ORD-00715,2024-10-31,Printer,Technology,Central,Indore,Consumer,Online,3,262.73,0.05,748.78,603.54,145.24
+ORD-01038,2024-10-31,Desk,Furniture,West,Pune,Consumer,Online,2,399.74,0.1,719.53,486.4,233.13
+ORD-01196,2024-10-31,Mouse,Technology,East,Kolkata,Small Business,In-Store,5,30.28,0.0,151.4,101.69,49.71
+ORD-00897,2024-11-01,Pen Set,Office Supplies,South,Hyderabad,Consumer,Online,4,8.69,0.0,34.76,22.5,12.26
+ORD-00776,2024-11-02,Bookshelf,Furniture,East,Kolkata,Consumer,Online,6,179.96,0.15,917.8,658.73,259.07
+ORD-01108,2024-11-02,Paper,Office Supplies,East,Guwahati,Consumer,Partner,4,17.54,0.0,70.16,51.04,19.12
+ORD-00439,2024-11-03,Pen Set,Office Supplies,West,Pune,Corporate,In-Store,2,12.43,0.0,24.86,16.16,8.7
+ORD-00848,2024-11-03,Notebook,Office Supplies,South,Chennai,Consumer,Online,4,5.28,0.05,20.06,13.06,7.0
+ORD-00494,2024-11-04,Desk,Furniture,East,Bhubaneswar,Corporate,Online,1,286.31,0.15,243.36,169.84,73.52
+ORD-00810,2024-11-05,Stapler,Office Supplies,North,Delhi,Consumer,In-Store,3,7.73,0.15,19.71,12.41,7.3
+ORD-00612,2024-11-06,Paper,Office Supplies,West,Ahmedabad,Corporate,Partner,8,16.1,0.1,115.92,86.52,29.4
+ORD-00626,2024-11-06,Printer,Technology,East,Guwahati,Small Business,Online,7,301.29,0.05,2003.58,1251.43,752.15
+ORD-00882,2024-11-06,Monitor,Technology,East,Bhubaneswar,Consumer,Partner,1,123.03,0.1,110.73,73.45,37.28
+ORD-01029,2024-11-07,Laptop,Technology,East,Guwahati,Consumer,In-Store,6,1212.44,0.0,7274.64,4380.11,2894.53
+ORD-00464,2024-11-09,Office Chair,Furniture,East,Guwahati,Small Business,In-Store,4,292.25,0.05,1110.55,897.81,212.74
+ORD-00468,2024-11-09,Desk,Furniture,West,Ahmedabad,Corporate,Online,6,404.45,0.1,2184.03,1623.38,560.65
+ORD-00737,2024-11-09,Filing Cabinet,Furniture,East,Guwahati,Consumer,Online,2,153.65,0.1,276.57,185.77,90.8
+ORD-00252,2024-11-10,Bookshelf,Furniture,West,Mumbai,Small Business,Online,6,140.05,0.0,840.3,469.03,371.27
+ORD-00978,2024-11-11,Printer,Technology,North,Chandigarh,Corporate,Online,3,213.64,0.0,640.92,503.57,137.35
+ORD-00222,2024-11-12,Desk,Furniture,West,Ahmedabad,Consumer,Partner,4,124.4,0.0,497.6,354.18,143.42
+ORD-00678,2024-11-13,Mouse,Technology,North,Chandigarh,Consumer,Partner,3,49.45,0.0,148.35,103.02,45.33
+ORD-00544,2024-11-14,Desk,Furniture,Central,Indore,Consumer,Online,2,121.92,0.05,231.65,174.29,57.36
+ORD-00318,2024-11-15,Keyboard,Technology,East,Kolkata,Consumer,Online,2,71.43,0.15,121.43,84.47,36.96
+ORD-00515,2024-11-15,Mouse,Technology,South,Hyderabad,Consumer,In-Store,2,54.24,0.1,97.63,59.06,38.57
+ORD-00051,2024-11-16,Folder,Office Supplies,North,Delhi,Small Business,In-Store,5,7.55,0.05,35.86,27.89,7.97
+ORD-00195,2024-11-16,Monitor,Technology,North,Delhi,Consumer,Online,4,187.78,0.2,600.9,475.83,125.07
+ORD-00917,2024-11-16,Bookshelf,Furniture,West,Pune,Consumer,Online,3,189.12,0.05,538.99,333.57,205.42
+ORD-00454,2024-11-17,Stapler,Office Supplies,North,Chandigarh,Small Business,Partner,6,17.96,0.0,107.76,83.01,24.75
+ORD-00784,2024-11-17,Filing Cabinet,Furniture,East,Kolkata,Corporate,Online,2,133.92,0.05,254.45,188.08,66.37
+ORD-01044,2024-11-17,Paper,Office Supplies,East,Kolkata,Corporate,Online,3,21.78,0.0,65.34,49.47,15.87
+ORD-00295,2024-11-19,Monitor,Technology,East,Guwahati,Consumer,Partner,4,335.42,0.0,1341.68,739.59,602.09
+ORD-00653,2024-11-19,Printer,Technology,South,Hyderabad,Consumer,In-Store,4,171.35,0.0,685.4,498.7,186.7
+ORD-00340,2024-11-20,Bookshelf,Furniture,Central,Bhopal,Consumer,Online,2,180.78,0.05,343.48,293.22,50.26
+ORD-00298,2024-11-21,Mouse,Technology,East,Kolkata,Small Business,In-Store,1,45.96,0.0,45.96,32.94,13.02
+ORD-01076,2024-11-21,Paper,Office Supplies,West,Pune,Consumer,Partner,7,20.91,0.0,146.37,81.71,64.66
+ORD-00013,2024-11-22,Folder,Office Supplies,North,Jaipur,Consumer,Online,4,5.87,0.05,22.31,14.33,7.98
+ORD-00640,2024-11-22,Office Chair,Furniture,Central,Indore,Corporate,In-Store,8,203.44,0.0,1627.52,937.87,689.65
+ORD-00498,2024-11-23,Pen Set,Office Supplies,East,Bhubaneswar,Corporate,Online,6,14.35,0.2,68.88,68.2,0.68
+ORD-01131,2024-11-24,Desk,Furniture,South,Hyderabad,Consumer,In-Store,4,435.37,0.0,1741.48,1329.12,412.36
+ORD-00245,2024-11-25,Bookshelf,Furniture,East,Kolkata,Consumer,Online,5,272.06,0.0,1360.3,795.88,564.42
+ORD-00501,2024-11-25,Stapler,Office Supplies,North,Chandigarh,Consumer,Online,7,15.23,0.1,95.95,70.3,25.65
+ORD-00731,2024-11-25,Laptop,Technology,North,Jaipur,Consumer,Online,1,728.16,0.1,655.34,596.84,58.5
+ORD-00677,2024-11-26,Desk,Furniture,South,Bengaluru,Consumer,Online,2,250.89,0.05,476.69,409.1,67.59
+ORD-00944,2024-11-26,Paper,Office Supplies,South,Chennai,Consumer,Partner,5,18.34,0.05,87.11,53.95,33.16
+ORD-01025,2024-11-26,Desk,Furniture,Central,Nagpur,Consumer,In-Store,5,384.62,0.15,1634.63,1013.75,620.88
+ORD-00105,2024-11-28,Printer,Technology,South,Hyderabad,Corporate,Online,5,356.45,0.1,1604.03,1453.24,150.79
+ORD-00580,2024-11-28,Monitor,Technology,North,Jaipur,Consumer,In-Store,2,339.06,0.2,542.5,508.46,34.04
+ORD-01143,2024-11-28,Office Chair,Furniture,South,Bengaluru,Small Business,In-Store,8,421.77,0.1,3036.74,2558.33,478.41
+ORD-00190,2024-11-29,Pen Set,Office Supplies,Central,Indore,Consumer,Online,8,17.58,0.1,126.58,93.51,33.07
+ORD-00014,2024-11-30,Filing Cabinet,Furniture,South,Hyderabad,Small Business,In-Store,1,321.05,0.15,272.89,234.34,38.55
+ORD-00104,2024-11-30,Mouse,Technology,West,Mumbai,Corporate,Partner,7,10.26,0.15,61.05,50.69,10.36
+ORD-00951,2024-12-01,Folder,Office Supplies,Central,Nagpur,Corporate,Online,7,3.22,0.15,19.16,13.78,5.38
+ORD-00823,2024-12-02,Pen Set,Office Supplies,West,Pune,Consumer,Online,6,12.04,0.0,72.24,52.7,19.54
+ORD-00966,2024-12-04,Notebook,Office Supplies,Central,Nagpur,Corporate,Online,4,12.16,0.1,43.78,29.52,14.26
+ORD-00412,2024-12-05,Mouse,Technology,South,Bengaluru,Consumer,Partner,7,51.85,0.0,362.95,211.08,151.87
+ORD-00834,2024-12-05,Monitor,Technology,South,Bengaluru,Consumer,Partner,5,233.59,0.15,992.76,679.06,313.7
+ORD-00072,2024-12-07,Paper,Office Supplies,Central,Bhopal,Consumer,In-Store,6,4.19,0.0,25.14,17.03,8.11
+ORD-00518,2024-12-07,Desk,Furniture,North,Jaipur,Consumer,Partner,1,281.62,0.1,253.46,223.71,29.75
+ORD-01160,2024-12-07,Bookshelf,Furniture,West,Pune,Consumer,Online,1,236.45,0.05,224.63,133.57,91.06
+ORD-00199,2024-12-08,Filing Cabinet,Furniture,North,Jaipur,Corporate,In-Store,1,325.63,0.15,276.79,215.78,61.01
+ORD-00667,2024-12-10,Printer,Technology,South,Bengaluru,Corporate,In-Store,8,138.83,0.05,1055.11,782.52,272.59
+ORD-00160,2024-12-11,Office Chair,Furniture,Central,Indore,Consumer,In-Store,8,412.32,0.0,3298.56,1933.75,1364.81
+ORD-00243,2024-12-11,Office Chair,Furniture,East,Guwahati,Consumer,In-Store,8,370.16,0.05,2813.22,2090.41,722.81
+ORD-00867,2024-12-11,Monitor,Technology,North,Jaipur,Consumer,In-Store,3,252.59,0.05,719.88,527.34,192.54
+ORD-00660,2024-12-12,Stapler,Office Supplies,West,Ahmedabad,Corporate,In-Store,8,15.63,0.15,106.28,87.35,18.93
+ORD-00275,2024-12-13,Laptop,Technology,East,Guwahati,Consumer,In-Store,3,1381.34,0.0,4144.02,2219.19,1924.83
+ORD-00588,2024-12-13,Pen Set,Office Supplies,East,Bhubaneswar,Small Business,Online,3,10.03,0.1,27.08,23.94,3.14
+ORD-00748,2024-12-13,Bookshelf,Furniture,East,Bhubaneswar,Consumer,In-Store,8,185.09,0.1,1332.65,795.54,537.11
+ORD-00903,2024-12-13,Pen Set,Office Supplies,West,Mumbai,Corporate,Online,3,15.48,0.15,39.47,29.61,9.86
+ORD-00992,2024-12-13,Pen Set,Office Supplies,West,Pune,Consumer,Partner,2,3.14,0.05,5.97,3.43,2.54
+ORD-00257,2024-12-14,Stapler,Office Supplies,East,Guwahati,Consumer,In-Store,8,11.01,0.05,83.68,51.73,31.95
+ORD-00616,2024-12-14,Stapler,Office Supplies,West,Pune,Consumer,In-Store,4,11.46,0.0,45.84,25.71,20.13
+ORD-01194,2024-12-14,Paper,Office Supplies,South,Hyderabad,Small Business,Online,4,6.84,0.0,27.36,18.34,9.02
+ORD-00120,2024-12-15,Printer,Technology,North,Delhi,Consumer,In-Store,1,308.52,0.15,262.24,186.17,76.07
+ORD-00627,2024-12-15,Desk,Furniture,West,Pune,Consumer,Online,2,274.09,0.05,520.77,412.62,108.15
+ORD-00551,2024-12-16,Filing Cabinet,Furniture,North,Chandigarh,Corporate,Online,7,216.91,0.15,1290.61,1203.44,87.17
+ORD-01067,2024-12-16,Monitor,Technology,South,Chennai,Small Business,Online,4,160.6,0.0,642.4,517.53,124.87
+ORD-00894,2024-12-17,Mouse,Technology,East,Guwahati,Consumer,Online,6,40.62,0.0,243.72,172.29,71.43
+ORD-00019,2024-12-18,Printer,Technology,North,Delhi,Consumer,Partner,4,367.98,0.15,1251.13,801.93,449.2
+ORD-00077,2024-12-18,Stapler,Office Supplies,South,Bengaluru,Small Business,In-Store,3,21.89,0.1,59.1,50.93,8.17
+ORD-00736,2024-12-18,Monitor,Technology,West,Mumbai,Consumer,In-Store,3,153.05,0.2,367.32,263.01,104.31
+ORD-00918,2024-12-18,Bookshelf,Furniture,West,Pune,Corporate,Partner,6,92.83,0.0,556.98,398.6,158.38
+ORD-00479,2024-12-19,Stapler,Office Supplies,Central,Indore,Consumer,In-Store,1,12.81,0.15,10.89,7.79,3.1
+ORD-00687,2024-12-19,Printer,Technology,Central,Bhopal,Consumer,Online,7,349.81,0.15,2081.37,1476.65,604.72
+ORD-00952,2024-12-22,Office Chair,Furniture,Central,Bhopal,Corporate,Online,4,201.03,0.1,723.71,450.94,272.77
+ORD-00979,2024-12-22,Folder,Office Supplies,Central,Bhopal,Consumer,Partner,8,5.5,0.0,44.0,34.79,9.21
+ORD-00402,2024-12-23,Notebook,Office Supplies,South,Chennai,Corporate,Online,1,11.01,0.0,11.01,8.66,2.35
+ORD-00674,2024-12-23,Folder,Office Supplies,Central,Indore,Consumer,In-Store,2,7.86,0.0,15.72,10.16,5.56
+ORD-00075,2024-12-24,Filing Cabinet,Furniture,South,Hyderabad,Consumer,In-Store,2,163.63,0.1,294.53,218.61,75.92
+ORD-00861,2024-12-24,Monitor,Technology,South,Chennai,Consumer,In-Store,8,205.4,0.0,1643.2,1183.41,459.79
+ORD-01155,2024-12-24,Printer,Technology,South,Hyderabad,Consumer,Partner,6,144.17,0.1,778.52,560.27,218.25
+ORD-00425,2024-12-25,Filing Cabinet,Furniture,Central,Nagpur,Corporate,Partner,7,155.47,0.0,1088.29,584.75,503.54
+ORD-01168,2024-12-25,Notebook,Office Supplies,South,Hyderabad,Consumer,Online,7,3.65,0.0,25.55,15.36,10.19
+ORD-00016,2024-12-26,Office Chair,Furniture,Central,Nagpur,Consumer,In-Store,5,151.29,0.15,642.98,565.49,77.49
+ORD-00349,2024-12-26,Printer,Technology,Central,Bhopal,Consumer,Partner,5,327.59,0.15,1392.26,984.97,407.29
+ORD-01156,2024-12-27,Mouse,Technology,South,Chennai,Corporate,Partner,8,14.17,0.1,102.02,74.48,27.54
+ORD-00004,2024-12-29,Notebook,Office Supplies,East,Kolkata,Consumer,In-Store,8,11.34,0.0,90.72,59.88,30.84
+ORD-00091,2024-12-29,Laptop,Technology,South,Hyderabad,Consumer,Online,2,1328.0,0.0,2656.0,1672.25,983.75
+ORD-00315,2024-12-31,Mouse,Technology,West,Pune,Consumer,Online,1,36.89,0.2,29.51,20.84,8.67
+ORD-00322,2024-12-31,Mouse,Technology,Central,Indore,Consumer,Online,3,61.26,0.1,165.4,149.3,16.1
+ORD-00643,2024-12-31,Laptop,Technology,North,Chandigarh,Consumer,In-Store,6,750.92,0.05,4280.24,3089.5,1190.74
+ORD-00481,2025-01-01,Paper,Office Supplies,South,Chennai,Consumer,Online,1,6.34,0.0,6.34,5.08,1.26
+ORD-00628,2025-01-01,Folder,Office Supplies,Central,Indore,Consumer,Online,3,1.94,0.0,5.82,3.18,2.64
+ORD-00059,2025-01-03,Office Chair,Furniture,South,Hyderabad,Consumer,In-Store,6,131.85,0.1,711.99,560.89,151.1
+ORD-00008,2025-01-04,Keyboard,Technology,West,Pune,Consumer,Online,6,72.3,0.15,368.73,285.3,83.43
+ORD-00794,2025-01-05,Mouse,Technology,East,Bhubaneswar,Consumer,Online,3,45.86,0.0,137.58,90.35,47.23
+ORD-00926,2025-01-05,Paper,Office Supplies,West,Pune,Corporate,Online,1,8.87,0.1,7.98,5.93,2.05
+ORD-00030,2025-01-06,Notebook,Office Supplies,East,Bhubaneswar,Small Business,Online,8,6.77,0.0,54.16,36.1,18.06
+ORD-00303,2025-01-06,Laptop,Technology,North,Chandigarh,Corporate,In-Store,1,1188.79,0.1,1069.91,928.22,141.69
+ORD-00368,2025-01-06,Mouse,Technology,North,Jaipur,Corporate,In-Store,1,58.51,0.15,49.73,45.69,4.04
+ORD-00525,2025-01-07,Paper,Office Supplies,East,Kolkata,Consumer,In-Store,2,14.55,0.0,29.1,19.47,9.63
+ORD-00845,2025-01-07,Office Chair,Furniture,East,Guwahati,Consumer,Online,3,444.1,0.05,1265.69,991.07,274.62
+ORD-00860,2025-01-07,Office Chair,Furniture,Central,Indore,Corporate,In-Store,7,169.6,0.0,1187.2,863.13,324.07
+ORD-01016,2025-01-07,Notebook,Office Supplies,South,Chennai,Corporate,In-Store,4,6.84,0.15,23.26,16.64,6.62
+ORD-01026,2025-01-08,Pen Set,Office Supplies,West,Pune,Consumer,Online,3,8.53,0.0,25.59,16.56,9.03
+ORD-01064,2025-01-08,Filing Cabinet,Furniture,West,Ahmedabad,Small Business,Online,1,278.28,0.15,236.54,214.74,21.8
+ORD-00664,2025-01-09,Filing Cabinet,Furniture,West,Mumbai,Corporate,Partner,7,231.81,0.05,1541.54,1070.2,471.34
+ORD-00779,2025-01-09,Mouse,Technology,North,Delhi,Consumer,Online,8,58.07,0.05,441.33,269.23,172.1
+ORD-00338,2025-01-10,Keyboard,Technology,Central,Nagpur,Consumer,Partner,7,66.61,0.1,419.64,331.87,87.77
+ORD-00371,2025-01-10,Filing Cabinet,Furniture,South,Bengaluru,Consumer,In-Store,5,247.42,0.0,1237.1,693.48,543.62
+ORD-00087,2025-01-11,Mouse,Technology,Central,Nagpur,Small Business,In-Store,8,10.25,0.1,73.8,43.37,30.43
+ORD-00590,2025-01-11,Notebook,Office Supplies,South,Bengaluru,Consumer,In-Store,1,8.13,0.0,8.13,4.67,3.46
+ORD-00934,2025-01-11,Pen Set,Office Supplies,Central,Indore,Consumer,Partner,7,14.13,0.1,89.02,78.19,10.83
+ORD-00078,2025-01-12,Bookshelf,Furniture,North,Delhi,Consumer,Partner,7,141.52,0.05,941.11,673.06,268.05
+ORD-00924,2025-01-12,Notebook,Office Supplies,East,Guwahati,Consumer,Partner,5,6.01,0.0,30.05,17.97,12.08
+ORD-00482,2025-01-13,Laptop,Technology,West,Pune,Small Business,In-Store,2,741.91,0.1,1335.44,917.38,418.06
+ORD-00608,2025-01-13,Laptop,Technology,East,Guwahati,Consumer,In-Store,6,762.82,0.1,4119.23,3436.92,682.31
+ORD-00025,2025-01-14,Pen Set,Office Supplies,Central,Indore,Consumer,Online,1,16.4,0.0,16.4,12.33,4.07
+ORD-00068,2025-01-14,Notebook,Office Supplies,Central,Nagpur,Consumer,Online,5,8.24,0.15,35.02,25.31,9.71
+ORD-00113,2025-01-15,Folder,Office Supplies,North,Jaipur,Consumer,In-Store,3,6.57,0.05,18.72,10.81,7.91
+ORD-00849,2025-01-15,Bookshelf,Furniture,South,Chennai,Consumer,Online,8,204.28,0.0,1634.24,1275.95,358.29
+ORD-01099,2025-01-15,Laptop,Technology,North,Jaipur,Small Business,Partner,3,1336.58,0.1,3608.77,2533.6,1075.17
+ORD-00650,2025-01-16,Monitor,Technology,South,Chennai,Corporate,In-Store,4,310.6,0.05,1180.28,737.19,443.09
+ORD-00841,2025-01-16,Pen Set,Office Supplies,South,Chennai,Corporate,In-Store,7,10.49,0.0,73.43,54.1,19.33
+ORD-00884,2025-01-16,Pen Set,Office Supplies,North,Chandigarh,Consumer,In-Store,4,3.19,0.15,10.85,9.09,1.76
+ORD-00080,2025-01-19,Stapler,Office Supplies,North,Chandigarh,Small Business,In-Store,5,5.15,0.0,25.75,18.82,6.93
+ORD-00218,2025-01-19,Notebook,Office Supplies,North,Chandigarh,Corporate,Partner,2,6.92,0.05,13.15,10.78,2.37
+ORD-00936,2025-01-19,Monitor,Technology,South,Hyderabad,Consumer,In-Store,6,193.02,0.2,926.5,734.78,191.72
+ORD-00323,2025-01-20,Printer,Technology,North,Jaipur,Consumer,In-Store,8,158.64,0.0,1269.12,1014.58,254.54
+ORD-00688,2025-01-20,Paper,Office Supplies,West,Pune,Consumer,Online,2,5.13,0.0,10.26,6.33,3.93
+ORD-00789,2025-01-21,Notebook,Office Supplies,Central,Indore,Corporate,In-Store,5,3.26,0.0,16.3,9.77,6.53
+ORD-01021,2025-01-21,Paper,Office Supplies,Central,Bhopal,Corporate,In-Store,4,8.0,0.0,32.0,18.7,13.3
+ORD-00714,2025-01-22,Laptop,Technology,North,Chandigarh,Corporate,Partner,6,723.21,0.15,3688.37,3236.86,451.51
+ORD-00442,2025-01-23,Laptop,Technology,East,Bhubaneswar,Corporate,Online,5,610.83,0.2,2443.32,2446.59,-3.27
+ORD-00895,2025-01-23,Stapler,Office Supplies,East,Kolkata,Small Business,Online,4,8.34,0.1,30.02,18.92,11.1
+ORD-00389,2025-01-24,Filing Cabinet,Furniture,West,Mumbai,Consumer,Partner,5,130.06,0.1,585.27,427.17,158.1
+ORD-00185,2025-01-25,Monitor,Technology,East,Bhubaneswar,Corporate,Online,2,130.77,0.2,209.23,211.22,-1.99
+ORD-00366,2025-01-25,Office Chair,Furniture,South,Hyderabad,Corporate,Online,6,300.74,0.0,1804.44,1395.41,409.03
+ORD-01145,2025-01-25,Office Chair,Furniture,East,Bhubaneswar,Consumer,Online,3,220.6,0.0,661.8,512.58,149.22
+ORD-00041,2025-01-26,Filing Cabinet,Furniture,West,Ahmedabad,Consumer,In-Store,7,126.62,0.05,842.02,688.93,153.09
+ORD-00670,2025-01-26,Printer,Technology,East,Guwahati,Corporate,In-Store,5,216.86,0.15,921.66,837.06,84.6
+ORD-00797,2025-01-26,Printer,Technology,South,Chennai,Corporate,Online,6,103.57,0.2,497.14,503.78,-6.64
+ORD-00946,2025-01-26,Notebook,Office Supplies,North,Jaipur,Corporate,In-Store,2,5.94,0.05,11.29,8.22,3.07
+ORD-00418,2025-01-29,Keyboard,Technology,West,Mumbai,Consumer,In-Store,6,90.68,0.05,516.88,430.0,86.88
+ORD-01056,2025-01-30,Folder,Office Supplies,East,Kolkata,Small Business,Online,7,7.3,0.2,40.88,40.14,0.74
+ORD-00706,2025-01-31,Monitor,Technology,Central,Nagpur,Corporate,In-Store,3,302.54,0.0,907.62,594.04,313.58
+ORD-00360,2025-02-01,Folder,Office Supplies,South,Hyderabad,Consumer,Partner,8,7.12,0.0,56.96,43.63,13.33
+ORD-00020,2025-02-02,Office Chair,Furniture,North,Chandigarh,Consumer,Online,5,262.56,0.0,1312.8,813.24,499.56
+ORD-00523,2025-02-02,Keyboard,Technology,South,Bengaluru,Small Business,Online,8,57.94,0.1,417.17,300.89,116.28
+ORD-00750,2025-02-02,Mouse,Technology,Central,Indore,Corporate,Online,5,13.78,0.05,65.45,42.27,23.18
+ORD-00378,2025-02-03,Notebook,Office Supplies,Central,Indore,Corporate,In-Store,7,10.84,0.0,75.88,49.73,26.15
+ORD-00541,2025-02-03,Office Chair,Furniture,Central,Bhopal,Consumer,Partner,2,335.89,0.05,638.19,516.23,121.96
+ORD-00969,2025-02-03,Notebook,Office Supplies,Central,Bhopal,Consumer,In-Store,8,11.92,0.0,95.36,65.68,29.68
+ORD-01008,2025-02-03,Stapler,Office Supplies,West,Mumbai,Small Business,Partner,2,18.66,0.15,31.72,22.76,8.96
+ORD-00814,2025-02-04,Desk,Furniture,North,Jaipur,Corporate,Online,6,167.24,0.1,903.1,581.32,321.78
+ORD-00385,2025-02-05,Monitor,Technology,North,Delhi,Consumer,Partner,3,148.07,0.0,444.21,304.07,140.14
+ORD-00399,2025-02-05,Notebook,Office Supplies,South,Bengaluru,Corporate,Online,8,2.73,0.0,21.84,15.36,6.48
+ORD-00675,2025-02-05,Bookshelf,Furniture,South,Bengaluru,Consumer,Online,6,185.35,0.1,1000.89,596.8,404.09
+ORD-00771,2025-02-05,Desk,Furniture,North,Chandigarh,Small Business,Online,6,400.21,0.1,2161.13,1311.78,849.35
+ORD-01176,2025-02-05,Pen Set,Office Supplies,North,Jaipur,Corporate,Partner,8,17.23,0.0,137.84,107.38,30.46
+ORD-01178,2025-02-05,Stapler,Office Supplies,East,Kolkata,Corporate,Online,2,24.01,0.0,48.02,32.97,15.05
+ORD-00205,2025-02-06,Mouse,Technology,South,Bengaluru,Corporate,In-Store,6,17.0,0.1,91.8,55.18,36.62
+ORD-00044,2025-02-08,Stapler,Office Supplies,East,Bhubaneswar,Corporate,Online,5,21.97,0.1,98.86,83.63,15.23
+ORD-00156,2025-02-08,Laptop,Technology,South,Bengaluru,Corporate,Online,2,674.83,0.15,1147.21,1035.1,112.11
+ORD-00253,2025-02-08,Laptop,Technology,South,Hyderabad,Corporate,Online,8,1195.44,0.0,9563.52,5880.69,3682.83
+ORD-00031,2025-02-09,Folder,Office Supplies,Central,Nagpur,Consumer,Partner,5,1.17,0.1,5.26,3.23,2.03
+ORD-00173,2025-02-09,Desk,Furniture,East,Kolkata,Consumer,Online,3,380.09,0.0,1140.27,711.21,429.06
+ORD-00365,2025-02-09,Stapler,Office Supplies,North,Chandigarh,Consumer,In-Store,2,10.98,0.0,21.96,13.21,8.75
+ORD-01170,2025-02-10,Desk,Furniture,North,Jaipur,Corporate,In-Store,5,142.42,0.0,712.1,577.19,134.91
+ORD-00383,2025-02-11,Pen Set,Office Supplies,North,Jaipur,Consumer,Online,6,9.16,0.2,43.97,29.18,14.79
+ORD-00132,2025-02-12,Folder,Office Supplies,South,Hyderabad,Consumer,In-Store,4,2.07,0.2,6.62,5.15,1.47
+ORD-00308,2025-02-13,Folder,Office Supplies,South,Bengaluru,Corporate,Partner,4,4.05,0.0,16.2,10.96,5.24
+ORD-00568,2025-02-13,Printer,Technology,East,Bhubaneswar,Small Business,Online,5,335.39,0.0,1676.95,887.35,789.6
+ORD-01024,2025-02-13,Folder,Office Supplies,West,Ahmedabad,Small Business,Partner,4,4.28,0.05,16.26,10.27,5.99
+ORD-01124,2025-02-13,Mouse,Technology,West,Mumbai,Small Business,In-Store,8,28.85,0.1,207.72,174.72,33.0
+ORD-00686,2025-02-14,Bookshelf,Furniture,Central,Bhopal,Small Business,Online,2,246.98,0.1,444.56,340.28,104.28
+ORD-00163,2025-02-16,Monitor,Technology,East,Bhubaneswar,Consumer,Partner,4,214.42,0.1,771.91,463.0,308.91
+ORD-00280,2025-02-16,Desk,Furniture,South,Bengaluru,Consumer,Online,2,479.04,0.0,958.08,509.41,448.67
+ORD-00509,2025-02-16,Folder,Office Supplies,East,Kolkata,Consumer,Online,8,1.96,0.0,15.68,10.18,5.5
+ORD-00009,2025-02-17,Office Chair,Furniture,West,Pune,Corporate,Online,7,261.66,0.1,1648.46,1301.21,347.25
+ORD-00355,2025-02-17,Stapler,Office Supplies,Central,Bhopal,Consumer,Online,4,12.89,0.0,51.56,30.3,21.26
+ORD-00792,2025-02-19,Folder,Office Supplies,East,Bhubaneswar,Corporate,In-Store,2,2.87,0.1,5.17,3.4,1.77
+ORD-01111,2025-02-19,Notebook,Office Supplies,South,Hyderabad,Corporate,Online,1,10.39,0.15,8.83,6.89,1.94
+ORD-00386,2025-02-20,Mouse,Technology,South,Bengaluru,Corporate,Partner,1,16.98,0.0,16.98,13.83,3.15
+ORD-00801,2025-02-20,Bookshelf,Furniture,East,Kolkata,Corporate,Partner,5,94.96,0.0,474.8,255.58,219.22
+ORD-00491,2025-02-21,Notebook,Office Supplies,Central,Bhopal,Consumer,Online,8,5.86,0.0,46.88,25.13,21.75
+ORD-01091,2025-02-21,Folder,Office Supplies,Central,Nagpur,Corporate,In-Store,2,5.38,0.05,10.22,6.86,3.36
+ORD-00216,2025-02-22,Mouse,Technology,East,Bhubaneswar,Small Business,Online,4,55.93,0.0,223.72,116.62,107.1
+ORD-00922,2025-02-22,Pen Set,Office Supplies,Central,Indore,Corporate,In-Store,8,8.55,0.1,61.56,47.94,13.62
+ORD-00925,2025-02-23,Paper,Office Supplies,South,Hyderabad,Small Business,In-Store,8,17.02,0.1,122.54,97.11,25.43
+ORD-00118,2025-02-24,Stapler,Office Supplies,South,Chennai,Consumer,Online,5,16.62,0.05,78.95,58.21,20.74
+ORD-00353,2025-02-24,Paper,Office Supplies,West,Ahmedabad,Corporate,In-Store,8,17.68,0.15,120.22,85.9,34.32
+ORD-00546,2025-02-24,Stapler,Office Supplies,North,Jaipur,Consumer,Online,1,8.56,0.0,8.56,6.42,2.14
+ORD-00914,2025-02-25,Monitor,Technology,East,Guwahati,Consumer,Online,2,406.05,0.2,649.68,512.66,137.02
+ORD-00929,2025-02-25,Printer,Technology,South,Chennai,Consumer,Online,7,140.96,0.05,937.38,541.48,395.9
+ORD-00036,2025-02-26,Keyboard,Technology,Central,Bhopal,Consumer,Online,2,88.91,0.0,177.82,107.66,70.16
+ORD-01119,2025-03-01,Printer,Technology,South,Hyderabad,Consumer,Online,3,372.27,0.05,1060.97,770.35,290.62
+ORD-00595,2025-03-02,Mouse,Technology,South,Chennai,Consumer,Online,6,18.19,0.0,109.14,83.75,25.39
+ORD-00296,2025-03-03,Folder,Office Supplies,South,Chennai,Small Business,Online,4,7.46,0.0,29.84,16.54,13.3
+ORD-00449,2025-03-03,Stapler,Office Supplies,South,Chennai,Corporate,In-Store,3,11.92,0.1,32.18,21.97,10.21
+ORD-00760,2025-03-03,Bookshelf,Furniture,East,Guwahati,Small Business,Online,7,227.39,0.0,1591.73,886.86,704.87
+ORD-00920,2025-03-03,Filing Cabinet,Furniture,West,Mumbai,Corporate,Partner,2,131.29,0.0,262.58,209.51,53.07
+ORD-00306,2025-03-04,Monitor,Technology,North,Chandigarh,Consumer,Online,2,207.69,0.2,332.3,304.25,28.05
+ORD-00325,2025-03-04,Laptop,Technology,Central,Bhopal,Corporate,In-Store,8,1160.6,0.0,9284.8,6770.31,2514.49
+ORD-00708,2025-03-04,Bookshelf,Furniture,East,Kolkata,Consumer,Online,3,72.57,0.1,195.94,178.44,17.5
+ORD-00066,2025-03-05,Desk,Furniture,North,Chandigarh,Consumer,In-Store,5,341.97,0.1,1538.87,1221.49,317.38
+ORD-00380,2025-03-05,Pen Set,Office Supplies,West,Mumbai,Corporate,Online,2,6.14,0.1,11.05,7.24,3.81
+ORD-00391,2025-03-05,Keyboard,Technology,East,Bhubaneswar,Consumer,In-Store,4,70.67,0.05,268.55,206.13,62.42
+ORD-00053,2025-03-06,Stapler,Office Supplies,West,Mumbai,Corporate,Online,4,7.44,0.1,26.78,15.59,11.19
+ORD-00065,2025-03-06,Keyboard,Technology,East,Kolkata,Consumer,Online,8,34.76,0.0,278.08,147.61,130.47
+ORD-00138,2025-03-06,Printer,Technology,West,Pune,Small Business,Online,6,206.91,0.1,1117.31,913.63,203.68
+ORD-00583,2025-03-06,Filing Cabinet,Furniture,North,Delhi,Consumer,In-Store,7,206.7,0.0,1446.9,939.89,507.01
+ORD-01121,2025-03-06,Office Chair,Furniture,East,Guwahati,Consumer,In-Store,6,148.54,0.15,757.55,712.75,44.8
+ORD-00447,2025-03-07,Office Chair,Furniture,West,Ahmedabad,Consumer,Online,2,383.32,0.15,651.64,488.97,162.67
+ORD-00824,2025-03-08,Folder,Office Supplies,West,Pune,Consumer,Online,4,3.98,0.2,12.74,11.65,1.09
+ORD-00264,2025-03-09,Printer,Technology,North,Jaipur,Corporate,Online,3,140.69,0.0,422.07,278.22,143.85
+ORD-00388,2025-03-09,Desk,Furniture,East,Kolkata,Small Business,In-Store,8,265.44,0.1,1911.17,1720.84,190.33
+ORD-00179,2025-03-10,Pen Set,Office Supplies,Central,Bhopal,Corporate,Online,8,5.81,0.15,39.51,29.39,10.12
+ORD-00837,2025-03-10,Pen Set,Office Supplies,East,Bhubaneswar,Consumer,In-Store,5,6.32,0.0,31.6,16.77,14.83
+ORD-00886,2025-03-10,Mouse,Technology,South,Hyderabad,Consumer,In-Store,7,31.23,0.0,218.61,167.34,51.27
+ORD-00902,2025-03-10,Monitor,Technology,South,Chennai,Corporate,Online,4,193.01,0.0,772.04,538.36,233.68
+ORD-00550,2025-03-11,Mouse,Technology,Central,Nagpur,Consumer,Partner,3,36.6,0.2,87.84,83.39,4.45
+ORD-00228,2025-03-12,Stapler,Office Supplies,South,Bengaluru,Small Business,Online,6,14.48,0.2,69.5,47.62,21.88
+ORD-00744,2025-03-12,Keyboard,Technology,South,Chennai,Small Business,In-Store,7,43.1,0.0,301.7,245.79,55.91
+ORD-00899,2025-03-12,Filing Cabinet,Furniture,Central,Bhopal,Consumer,Online,8,98.47,0.15,669.6,488.07,181.53
+ORD-00485,2025-03-13,Keyboard,Technology,North,Delhi,Corporate,Online,5,92.32,0.05,438.52,321.6,116.92
+ORD-00756,2025-03-13,Desk,Furniture,North,Jaipur,Corporate,In-Store,2,196.07,0.1,352.93,234.16,118.77
+ORD-01012,2025-03-14,Mouse,Technology,Central,Nagpur,Corporate,Online,7,40.5,0.05,269.32,159.81,109.51
+ORD-00042,2025-03-17,Office Chair,Furniture,South,Hyderabad,Consumer,Online,3,137.41,0.05,391.62,265.92,125.7
+ORD-00102,2025-03-17,Mouse,Technology,East,Kolkata,Consumer,Partner,1,35.34,0.1,31.81,19.97,11.84
+ORD-00259,2025-03-17,Laptop,Technology,North,Jaipur,Consumer,Online,5,953.77,0.0,4768.85,2540.68,2228.17
+ORD-00730,2025-03-17,Pen Set,Office Supplies,Central,Nagpur,Consumer,In-Store,5,4.45,0.1,20.03,11.99,8.04
+ORD-00594,2025-03-18,Office Chair,Furniture,South,Bengaluru,Corporate,In-Store,5,92.6,0.15,393.55,376.0,17.55
+ORD-00356,2025-03-19,Pen Set,Office Supplies,East,Kolkata,Corporate,Online,2,10.37,0.15,17.63,16.35,1.28
+ORD-00739,2025-03-19,Desk,Furniture,West,Mumbai,Consumer,In-Store,2,232.13,0.05,441.05,241.56,199.49
+ORD-00260,2025-03-20,Mouse,Technology,North,Jaipur,Consumer,Partner,2,55.34,0.2,88.54,64.24,24.3
+ORD-01010,2025-03-20,Stapler,Office Supplies,North,Delhi,Consumer,Online,8,24.53,0.1,176.62,157.97,18.65
+ORD-00374,2025-03-21,Filing Cabinet,Furniture,East,Kolkata,Corporate,Online,6,276.04,0.2,1324.99,1105.94,219.05
+ORD-00696,2025-03-21,Office Chair,Furniture,West,Mumbai,Consumer,Online,8,236.78,0.05,1799.53,1198.17,601.36
+ORD-00411,2025-03-22,Laptop,Technology,Central,Bhopal,Consumer,In-Store,1,836.87,0.1,753.18,502.28,250.9
+ORD-00878,2025-03-22,Filing Cabinet,Furniture,East,Guwahati,Consumer,Online,8,320.57,0.15,2179.88,1796.55,383.33
+ORD-00629,2025-03-23,Office Chair,Furniture,West,Mumbai,Consumer,In-Store,3,177.22,0.15,451.91,366.89,85.02
+ORD-00734,2025-03-23,Mouse,Technology,South,Hyderabad,Corporate,Partner,1,24.02,0.0,24.02,16.14,7.88
+ORD-00076,2025-03-24,Monitor,Technology,Central,Bhopal,Consumer,In-Store,6,314.74,0.1,1699.6,1414.2,285.4
+ORD-01098,2025-03-24,Monitor,Technology,North,Jaipur,Corporate,Partner,8,316.67,0.0,2533.36,1476.05,1057.31
+ORD-00352,2025-03-25,Monitor,Technology,East,Kolkata,Corporate,Online,6,276.29,0.05,1574.85,1092.98,481.87
+ORD-00813,2025-03-26,Paper,Office Supplies,North,Jaipur,Consumer,In-Store,1,6.1,0.1,5.49,4.95,0.54
+ORD-00126,2025-03-27,Keyboard,Technology,South,Hyderabad,Consumer,Online,8,25.73,0.0,205.84,159.31,46.53
+ORD-00601,2025-03-27,Office Chair,Furniture,North,Chandigarh,Consumer,Online,7,255.63,0.05,1699.94,1000.63,699.31
+ORD-00905,2025-03-27,Mouse,Technology,South,Hyderabad,Consumer,In-Store,5,31.13,0.0,155.65,111.54,44.11
+ORD-01158,2025-03-27,Notebook,Office Supplies,Central,Nagpur,Small Business,Online,7,10.32,0.0,72.24,50.75,21.49
+ORD-00149,2025-03-28,Folder,Office Supplies,North,Chandigarh,Consumer,In-Store,4,3.96,0.2,12.67,12.9,-0.23
+ORD-00504,2025-03-28,Folder,Office Supplies,West,Mumbai,Corporate,Partner,7,6.55,0.05,43.56,33.53,10.03
+ORD-00577,2025-03-28,Filing Cabinet,Furniture,Central,Nagpur,Consumer,In-Store,1,224.45,0.0,224.45,130.29,94.16
+ORD-01189,2025-03-29,Pen Set,Office Supplies,South,Chennai,Consumer,Online,3,10.51,0.05,29.95,20.48,9.47
+ORD-00547,2025-03-30,Keyboard,Technology,South,Bengaluru,Corporate,In-Store,2,63.51,0.1,114.32,100.54,13.78
+ORD-00618,2025-03-31,Filing Cabinet,Furniture,East,Kolkata,Consumer,In-Store,2,157.28,0.0,314.56,205.77,108.79
+ORD-00067,2025-04-02,Printer,Technology,East,Guwahati,Small Business,Partner,5,215.11,0.05,1021.77,724.73,297.04
+ORD-00478,2025-04-02,Desk,Furniture,West,Pune,Corporate,Partner,6,140.22,0.1,757.19,637.39,119.8
+ORD-00742,2025-04-04,Stapler,Office Supplies,South,Hyderabad,Consumer,Partner,6,7.99,0.2,38.35,30.16,8.19
+ORD-00006,2025-04-05,Keyboard,Technology,South,Chennai,Consumer,In-Store,2,69.58,0.05,132.2,107.13,25.07
+ORD-00237,2025-04-06,Notebook,Office Supplies,East,Bhubaneswar,Corporate,Online,1,11.29,0.15,9.6,8.03,1.57
+ORD-00258,2025-04-06,Laptop,Technology,South,Chennai,Corporate,In-Store,1,923.3,0.1,830.97,649.19,181.78
+ORD-00273,2025-04-07,Stapler,Office Supplies,South,Chennai,Consumer,In-Store,5,20.75,0.2,83.0,84.48,-1.48
+ORD-01088,2025-04-07,Bookshelf,Furniture,East,Kolkata,Consumer,Online,8,201.02,0.2,1286.53,1256.63,29.9
+ORD-00032,2025-04-08,Monitor,Technology,North,Jaipur,Consumer,Online,5,399.91,0.15,1699.62,1320.13,379.49
+ORD-00146,2025-04-08,Notebook,Office Supplies,North,Delhi,Consumer,In-Store,4,7.48,0.0,29.92,21.35,8.57
+ORD-01185,2025-04-08,Keyboard,Technology,West,Ahmedabad,Consumer,In-Store,7,90.18,0.0,631.26,422.89,208.37
+ORD-00106,2025-04-09,Desk,Furniture,East,Kolkata,Consumer,Online,7,356.3,0.0,2494.1,1606.72,887.38
+ORD-01144,2025-04-09,Filing Cabinet,Furniture,East,Kolkata,Corporate,Online,4,318.44,0.05,1210.07,670.98,539.09
+ORD-00262,2025-04-11,Folder,Office Supplies,North,Chandigarh,Consumer,In-Store,7,5.3,0.1,33.39,23.94,9.45
+ORD-00617,2025-04-11,Mouse,Technology,South,Bengaluru,Corporate,Online,7,61.62,0.15,366.64,238.44,128.2
+ORD-00890,2025-04-11,Notebook,Office Supplies,North,Chandigarh,Consumer,In-Store,2,12.14,0.05,23.07,14.96,8.11
+ORD-01177,2025-04-12,Laptop,Technology,South,Bengaluru,Corporate,Partner,7,890.05,0.1,5607.31,4884.1,723.21
+ORD-00247,2025-04-13,Desk,Furniture,West,Mumbai,Small Business,In-Store,4,243.76,0.05,926.29,729.23,197.06
+ORD-00407,2025-04-14,Keyboard,Technology,Central,Bhopal,Consumer,In-Store,3,53.5,0.15,136.42,95.43,40.99
+ORD-00437,2025-04-14,Folder,Office Supplies,Central,Indore,Consumer,In-Store,2,5.16,0.1,9.29,7.55,1.74
+ORD-01149,2025-04-14,Mouse,Technology,North,Jaipur,Corporate,In-Store,6,50.11,0.0,300.66,166.72,133.94
+ORD-00341,2025-04-15,Bookshelf,Furniture,East,Bhubaneswar,Consumer,Online,1,174.85,0.2,139.88,105.88,34.0
+ORD-00614,2025-04-15,Folder,Office Supplies,Central,Nagpur,Corporate,In-Store,3,3.78,0.1,10.21,9.04,1.17
+ORD-00877,2025-04-16,Printer,Technology,West,Mumbai,Consumer,In-Store,8,244.42,0.1,1759.82,1270.86,488.96
+ORD-00415,2025-04-17,Laptop,Technology,West,Mumbai,Consumer,In-Store,6,831.75,0.0,4990.5,3998.95,991.55
+ORD-00646,2025-04-17,Pen Set,Office Supplies,Central,Bhopal,Consumer,Online,1,5.34,0.15,4.54,3.46,1.08
+ORD-00597,2025-04-18,Monitor,Technology,Central,Bhopal,Consumer,Online,1,203.58,0.0,203.58,136.13,67.45
+ORD-01147,2025-04-19,Printer,Technology,West,Ahmedabad,Consumer,Online,7,281.44,0.05,1871.58,1267.06,604.52
+ORD-00084,2025-04-20,Notebook,Office Supplies,Central,Bhopal,Corporate,In-Store,4,13.74,0.05,52.21,41.67,10.54
+ORD-01195,2025-04-20,Notebook,Office Supplies,South,Bengaluru,Consumer,In-Store,7,10.08,0.0,70.56,49.78,20.78
+ORD-00194,2025-04-21,Bookshelf,Furniture,West,Ahmedabad,Small Business,Online,6,112.39,0.15,573.19,475.64,97.55
+ORD-00513,2025-04-22,Printer,Technology,West,Ahmedabad,Corporate,In-Store,5,276.39,0.1,1243.75,1116.24,127.51
+ORD-00923,2025-04-22,Pen Set,Office Supplies,Central,Indore,Corporate,Online,1,8.24,0.0,8.24,5.75,2.49
+ORD-00605,2025-04-23,Paper,Office Supplies,West,Mumbai,Corporate,Partner,5,9.71,0.05,46.12,32.57,13.55
+ORD-00581,2025-04-24,Bookshelf,Furniture,North,Delhi,Small Business,Online,6,84.35,0.0,506.1,398.68,107.42
+ORD-00647,2025-04-24,Laptop,Technology,South,Hyderabad,Corporate,In-Store,1,667.21,0.0,667.21,502.16,165.05
+ORD-00971,2025-04-25,Mouse,Technology,West,Mumbai,Consumer,Online,3,31.58,0.1,85.27,70.29,14.98
+ORD-00457,2025-04-26,Mouse,Technology,Central,Indore,Consumer,Partner,3,28.82,0.05,82.14,48.96,33.18
+ORD-00725,2025-04-26,Laptop,Technology,South,Hyderabad,Corporate,Online,7,926.48,0.05,6161.09,4795.94,1365.15
+ORD-00956,2025-04-26,Filing Cabinet,Furniture,East,Kolkata,Consumer,Online,7,313.95,0.05,2087.77,1616.11,471.66
+ORD-01043,2025-04-26,Bookshelf,Furniture,South,Chennai,Corporate,Online,3,186.36,0.2,447.26,367.15,80.11
+ORD-01129,2025-04-26,Laptop,Technology,Central,Indore,Consumer,In-Store,5,1107.19,0.15,4705.56,3963.59,741.97
+ORD-00808,2025-04-27,Office Chair,Furniture,West,Pune,Corporate,Partner,2,95.37,0.0,190.74,106.86,83.88
+ORD-00011,2025-04-28,Pen Set,Office Supplies,South,Chennai,Consumer,In-Store,4,7.4,0.1,26.64,22.35,4.29
+ORD-00658,2025-04-28,Printer,Technology,South,Chennai,Consumer,In-Store,6,173.14,0.1,934.96,736.47,198.49
+ORD-01028,2025-04-30,Keyboard,Technology,Central,Indore,Consumer,In-Store,6,50.91,0.05,290.19,175.42,114.77
+ORD-00816,2025-05-02,Monitor,Technology,South,Hyderabad,Small Business,Online,8,243.48,0.1,1753.06,1238.85,514.21
+ORD-00244,2025-05-03,Stapler,Office Supplies,West,Pune,Small Business,Online,5,19.75,0.0,98.75,66.63,32.12
+ORD-01092,2025-05-03,Mouse,Technology,South,Bengaluru,Corporate,In-Store,1,31.95,0.2,25.56,20.2,5.36
+ORD-01166,2025-05-03,Mouse,Technology,North,Delhi,Corporate,In-Store,7,45.17,0.0,316.19,227.03,89.16
+ORD-00175,2025-05-04,Folder,Office Supplies,Central,Nagpur,Small Business,In-Store,1,5.18,0.0,5.18,4.16,1.02
+ORD-00495,2025-05-04,Monitor,Technology,North,Jaipur,Corporate,Partner,2,219.38,0.05,416.82,324.8,92.02
+ORD-00857,2025-05-04,Monitor,Technology,South,Chennai,Consumer,Online,6,278.35,0.15,1419.59,908.61,510.98
+ORD-00359,2025-05-05,Notebook,Office Supplies,West,Mumbai,Consumer,Partner,6,4.87,0.0,29.22,19.68,9.54
+ORD-00406,2025-05-06,Paper,Office Supplies,South,Chennai,Consumer,In-Store,2,15.44,0.05,29.34,24.62,4.72
+ORD-01003,2025-05-06,Notebook,Office Supplies,East,Guwahati,Consumer,Online,4,12.44,0.05,47.27,26.17,21.1
+ORD-01113,2025-05-06,Office Chair,Furniture,North,Delhi,Corporate,Online,3,297.45,0.05,847.73,686.75,160.98
+ORD-01164,2025-05-08,Pen Set,Office Supplies,South,Bengaluru,Consumer,Online,7,10.6,0.2,59.36,60.63,-1.27
+ORD-01069,2025-05-09,Printer,Technology,Central,Indore,Corporate,In-Store,1,298.72,0.05,283.78,155.54,128.24
+ORD-00949,2025-05-11,Folder,Office Supplies,Central,Indore,Consumer,In-Store,6,5.09,0.05,29.01,23.27,5.74
+ORD-00651,2025-05-12,Printer,Technology,East,Bhubaneswar,Corporate,In-Store,5,154.35,0.05,733.16,485.46,247.7
+ORD-00765,2025-05-12,Keyboard,Technology,South,Bengaluru,Corporate,In-Store,2,86.25,0.15,146.62,97.77,48.85
+ORD-01127,2025-05-12,Notebook,Office Supplies,North,Jaipur,Consumer,Online,5,7.21,0.0,36.05,27.31,8.74
+ORD-00645,2025-05-13,Keyboard,Technology,East,Guwahati,Consumer,Online,1,41.05,0.1,36.95,25.44,11.51
+ORD-00774,2025-05-15,Filing Cabinet,Furniture,East,Guwahati,Corporate,In-Store,6,188.09,0.05,1072.11,791.75,280.36
+ORD-00043,2025-05-16,Notebook,Office Supplies,South,Chennai,Consumer,Online,2,6.55,0.0,13.1,10.54,2.56
+ORD-00143,2025-05-16,Notebook,Office Supplies,Central,Nagpur,Corporate,Online,4,6.8,0.0,27.2,17.41,9.79
+ORD-00151,2025-05-16,Bookshelf,Furniture,East,Kolkata,Consumer,Online,3,175.16,0.1,472.93,429.64,43.29
+ORD-00239,2025-05-16,Pen Set,Office Supplies,Central,Nagpur,Consumer,Online,8,7.95,0.15,54.06,34.56,19.5
+ORD-00648,2025-05-17,Keyboard,Technology,South,Bengaluru,Consumer,Online,2,24.68,0.2,39.49,32.52,6.97
+ORD-00668,2025-05-17,Mouse,Technology,West,Pune,Corporate,Online,2,12.41,0.05,23.58,18.67,4.91
+ORD-00722,2025-05-17,Notebook,Office Supplies,West,Mumbai,Consumer,In-Store,2,11.82,0.0,23.64,17.79,5.85
+ORD-00817,2025-05-17,Mouse,Technology,North,Delhi,Consumer,Online,2,30.04,0.0,60.08,32.44,27.64
+ORD-01042,2025-05-17,Paper,Office Supplies,South,Chennai,Consumer,In-Store,8,4.55,0.0,36.4,25.36,11.04
+ORD-00619,2025-05-19,Folder,Office Supplies,North,Chandigarh,Consumer,Online,1,3.38,0.0,3.38,1.98,1.4
+ORD-01004,2025-05-19,Laptop,Technology,Central,Nagpur,Consumer,Online,2,710.93,0.0,1421.86,1072.3,349.56
+ORD-00045,2025-05-22,Keyboard,Technology,West,Ahmedabad,Consumer,In-Store,5,33.59,0.15,142.76,93.99,48.77
+ORD-00529,2025-05-22,Printer,Technology,South,Bengaluru,Consumer,Online,2,127.62,0.0,255.24,159.13,96.11
+ORD-00543,2025-05-23,Monitor,Technology,West,Ahmedabad,Corporate,Online,6,204.39,0.15,1042.39,704.29,338.1
+ORD-00921,2025-05-23,Desk,Furniture,South,Bengaluru,Corporate,In-Store,6,326.11,0.0,1956.66,1297.84,658.82
+ORD-00012,2025-05-24,Paper,Office Supplies,South,Bengaluru,Consumer,In-Store,2,4.41,0.0,8.82,6.5,2.32
+ORD-00916,2025-05-24,Mouse,Technology,North,Delhi,Corporate,In-Store,3,39.06,0.05,111.32,79.13,32.19
+ORD-00460,2025-05-26,Mouse,Technology,Central,Nagpur,Consumer,In-Store,3,58.34,0.0,175.02,126.67,48.35
+ORD-00930,2025-05-29,Bookshelf,Furniture,East,Kolkata,Small Business,In-Store,5,189.15,0.15,803.89,594.38,209.51
+ORD-01186,2025-05-29,Keyboard,Technology,Central,Nagpur,Consumer,Online,7,20.78,0.15,123.64,106.46,17.18
+ORD-00144,2025-05-30,Stapler,Office Supplies,North,Chandigarh,Corporate,Online,8,22.08,0.0,176.64,120.71,55.93
+ORD-00521,2025-05-30,Office Chair,Furniture,North,Chandigarh,Corporate,Partner,7,388.86,0.05,2585.92,1721.16,864.76
+ORD-00843,2025-05-31,Laptop,Technology,East,Guwahati,Consumer,Partner,3,1001.77,0.05,2855.04,2104.01,751.03
+ORD-00690,2025-06-01,Notebook,Office Supplies,South,Chennai,Consumer,Online,1,5.98,0.1,5.38,4.23,1.15
+ORD-00061,2025-06-02,Laptop,Technology,North,Jaipur,Small Business,Online,4,1301.52,0.0,5206.08,2850.41,2355.67
+ORD-00070,2025-06-02,Keyboard,Technology,Central,Bhopal,Corporate,Online,1,81.69,0.15,69.44,51.6,17.84
+ORD-00304,2025-06-02,Filing Cabinet,Furniture,East,Kolkata,Small Business,In-Store,7,299.23,0.0,2094.61,1438.7,655.91
+ORD-00740,2025-06-02,Folder,Office Supplies,East,Bhubaneswar,Corporate,Online,5,4.85,0.0,24.25,19.68,4.57
+ORD-00150,2025-06-03,Laptop,Technology,South,Chennai,Consumer,Online,3,1302.12,0.1,3515.72,2162.38,1353.34
+ORD-00392,2025-06-04,Filing Cabinet,Furniture,West,Mumbai,Consumer,Online,8,251.71,0.05,1913.0,1241.38,671.62
+ORD-00472,2025-06-04,Laptop,Technology,North,Chandigarh,Consumer,Online,2,1149.36,0.15,1953.91,1352.77,601.14
+ORD-00372,2025-06-05,Monitor,Technology,South,Bengaluru,Small Business,Online,3,184.99,0.1,499.47,402.94,96.53
+ORD-00982,2025-06-05,Desk,Furniture,North,Jaipur,Corporate,Online,3,378.92,0.05,1079.92,853.74,226.18
+ORD-00993,2025-06-05,Desk,Furniture,Central,Nagpur,Corporate,Online,7,445.77,0.0,3120.39,1667.88,1452.51
+ORD-00278,2025-06-06,Bookshelf,Furniture,West,Ahmedabad,Consumer,In-Store,3,76.52,0.05,218.08,133.16,84.92
+ORD-00927,2025-06-06,Notebook,Office Supplies,West,Ahmedabad,Small Business,Online,8,10.68,0.1,76.9,67.25,9.65
+ORD-00783,2025-06-07,Filing Cabinet,Furniture,South,Bengaluru,Consumer,Online,4,289.17,0.0,1156.68,669.19,487.49
+ORD-00963,2025-06-07,Stapler,Office Supplies,North,Delhi,Consumer,In-Store,8,18.82,0.0,150.56,87.13,63.43
+ORD-01046,2025-06-07,Printer,Technology,South,Hyderabad,Corporate,Online,6,184.89,0.15,942.94,666.32,276.62
+ORD-00112,2025-06-08,Filing Cabinet,Furniture,West,Ahmedabad,Consumer,In-Store,6,265.56,0.1,1434.02,1191.08,242.94
+ORD-00712,2025-06-10,Notebook,Office Supplies,East,Bhubaneswar,Corporate,Online,2,6.29,0.15,10.69,9.16,1.53
+ORD-00777,2025-06-10,Bookshelf,Furniture,West,Pune,Corporate,Online,4,247.56,0.0,990.24,623.72,366.52
+ORD-01120,2025-06-10,Paper,Office Supplies,North,Jaipur,Small Business,In-Store,6,5.1,0.05,29.07,20.94,8.13
+ORD-00293,2025-06-11,Folder,Office Supplies,North,Delhi,Consumer,In-Store,4,4.95,0.0,19.8,13.85,5.95
+ORD-00913,2025-06-12,Notebook,Office Supplies,West,Ahmedabad,Consumer,Online,1,13.89,0.0,13.89,9.73,4.16
+ORD-01000,2025-06-12,Folder,Office Supplies,North,Chandigarh,Corporate,Online,1,7.29,0.1,6.56,4.52,2.04
+ORD-00499,2025-06-13,Notebook,Office Supplies,Central,Indore,Consumer,Partner,4,5.06,0.15,17.2,13.2,4.0
+ORD-00659,2025-06-13,Paper,Office Supplies,North,Chandigarh,Consumer,In-Store,8,10.55,0.1,75.96,48.64,27.32
+ORD-00248,2025-06-14,Mouse,Technology,North,Delhi,Consumer,Online,7,56.74,0.2,317.74,233.22,84.52
+ORD-00804,2025-06-15,Folder,Office Supplies,West,Mumbai,Small Business,Online,8,6.87,0.15,46.72,31.08,15.64
+ORD-00847,2025-06-15,Stapler,Office Supplies,West,Ahmedabad,Small Business,In-Store,4,24.09,0.05,91.54,70.02,21.52
+ORD-00313,2025-06-16,Printer,Technology,North,Delhi,Small Business,In-Store,5,110.05,0.0,550.25,405.6,144.65
+ORD-00692,2025-06-16,Paper,Office Supplies,South,Bengaluru,Small Business,In-Store,6,4.98,0.15,25.4,15.74,9.66
+ORD-00545,2025-06-17,Keyboard,Technology,South,Chennai,Consumer,In-Store,3,39.11,0.0,117.33,80.02,37.31
+ORD-00584,2025-06-17,Mouse,Technology,North,Delhi,Small Business,Online,2,42.48,0.0,84.96,62.62,22.34
+ORD-00613,2025-06-17,Pen Set,Office Supplies,South,Hyderabad,Consumer,Online,8,10.45,0.0,83.6,48.77,34.83
+ORD-01071,2025-06-17,Notebook,Office Supplies,East,Kolkata,Consumer,In-Store,8,6.64,0.2,42.5,37.05,5.45
+ORD-01114,2025-06-17,Bookshelf,Furniture,North,Jaipur,Consumer,In-Store,1,80.66,0.15,68.56,63.3,5.26
+ORD-00375,2025-06-18,Mouse,Technology,South,Hyderabad,Small Business,In-Store,5,28.08,0.0,140.4,79.99,60.41
+ORD-00820,2025-06-18,Keyboard,Technology,East,Kolkata,Small Business,In-Store,6,65.13,0.1,351.7,293.86,57.84
+ORD-01101,2025-06-18,Bookshelf,Furniture,South,Chennai,Corporate,Online,7,99.06,0.15,589.41,503.66,85.75
+ORD-01179,2025-06-18,Printer,Technology,North,Delhi,Consumer,Online,3,277.95,0.0,833.85,607.32,226.53
+ORD-00565,2025-06-19,Notebook,Office Supplies,Central,Indore,Consumer,Partner,4,2.39,0.15,8.13,5.16,2.97
+ORD-00198,2025-06-20,Bookshelf,Furniture,North,Chandigarh,Consumer,In-Store,4,170.37,0.05,647.41,368.03,279.38
+ORD-00754,2025-06-20,Mouse,Technology,Central,Indore,Consumer,Online,4,20.05,0.15,68.17,52.41,15.76
+ORD-00314,2025-06-21,Laptop,Technology,North,Delhi,Consumer,Online,1,570.19,0.0,570.19,442.52,127.67
+ORD-00957,2025-06-21,Keyboard,Technology,East,Kolkata,Consumer,Partner,2,59.99,0.1,107.98,75.29,32.69
+ORD-00980,2025-06-21,Bookshelf,Furniture,South,Bengaluru,Consumer,Online,1,135.96,0.05,129.16,84.56,44.6
+ORD-00863,2025-06-22,Desk,Furniture,Central,Nagpur,Corporate,Partner,7,212.3,0.2,1188.88,1158.97,29.91
+ORD-00054,2025-06-23,Office Chair,Furniture,Central,Nagpur,Consumer,Partner,4,250.87,0.0,1003.48,798.3,205.18
+ORD-00424,2025-06-23,Folder,Office Supplies,East,Bhubaneswar,Consumer,In-Store,8,5.75,0.0,46.0,35.88,10.12
+ORD-00939,2025-06-23,Bookshelf,Furniture,West,Mumbai,Consumer,Online,7,91.57,0.15,544.84,511.49,33.35
+ORD-00373,2025-06-24,Bookshelf,Furniture,Central,Bhopal,Corporate,Online,4,85.78,0.2,274.5,265.57,8.93
+ORD-00490,2025-06-24,Desk,Furniture,Central,Bhopal,Consumer,In-Store,4,346.09,0.05,1315.14,973.55,341.59
+ORD-01174,2025-06-24,Filing Cabinet,Furniture,South,Hyderabad,Consumer,In-Store,2,191.08,0.0,382.16,230.84,151.32
+ORD-00480,2025-06-26,Pen Set,Office Supplies,East,Guwahati,Small Business,Online,1,3.67,0.2,2.94,2.87,0.07
+ORD-00589,2025-06-26,Office Chair,Furniture,South,Chennai,Consumer,Online,6,104.61,0.0,627.66,374.78,252.88
+ORD-00398,2025-06-27,Pen Set,Office Supplies,South,Hyderabad,Corporate,Online,6,16.13,0.1,87.1,58.4,28.7
+ORD-00142,2025-06-28,Paper,Office Supplies,Central,Bhopal,Corporate,Online,5,16.63,0.2,66.52,58.46,8.06
+ORD-00769,2025-06-28,Paper,Office Supplies,North,Jaipur,Consumer,In-Store,3,20.4,0.2,48.96,40.45,8.51
+ORD-01152,2025-06-28,Bookshelf,Furniture,Central,Indore,Consumer,Online,6,92.64,0.05,528.05,332.45,195.6
+ORD-00630,2025-06-29,Keyboard,Technology,North,Delhi,Corporate,Online,5,29.44,0.05,139.84,100.53,39.31
+ORD-00524,2025-06-30,Mouse,Technology,South,Chennai,Consumer,Partner,8,21.4,0.1,154.08,116.58,37.5
+ORD-00844,2025-06-30,Mouse,Technology,South,Bengaluru,Consumer,Online,1,42.87,0.0,42.87,33.18,9.69
+ORD-00988,2025-06-30,Bookshelf,Furniture,West,Pune,Corporate,Online,5,183.84,0.0,919.2,742.55,176.65
+ORD-00060,2025-07-01,Pen Set,Office Supplies,North,Chandigarh,Consumer,In-Store,2,7.06,0.1,12.71,11.49,1.22
+ORD-00225,2025-07-01,Folder,Office Supplies,West,Ahmedabad,Consumer,In-Store,2,6.74,0.0,13.48,7.49,5.99
+ORD-00639,2025-07-01,Folder,Office Supplies,Central,Indore,Consumer,Online,6,3.23,0.0,19.38,14.06,5.32
+ORD-00768,2025-07-01,Laptop,Technology,South,Bengaluru,Consumer,Online,7,623.02,0.1,3925.03,2454.72,1470.31
+ORD-01081,2025-07-01,Pen Set,Office Supplies,North,Chandigarh,Consumer,In-Store,4,5.7,0.1,20.52,16.64,3.88
+ORD-00682,2025-07-02,Office Chair,Furniture,East,Guwahati,Small Business,Online,5,398.76,0.0,1993.8,1402.93,590.87
+ORD-00806,2025-07-02,Stapler,Office Supplies,West,Ahmedabad,Small Business,In-Store,2,13.52,0.05,25.69,14.11,11.58
+ORD-01102,2025-07-02,Keyboard,Technology,West,Ahmedabad,Small Business,In-Store,7,61.69,0.05,410.24,235.37,174.87
+ORD-00207,2025-07-03,Printer,Technology,South,Bengaluru,Consumer,Online,8,159.87,0.0,1278.96,769.73,509.23
+ORD-00288,2025-07-03,Paper,Office Supplies,West,Mumbai,Consumer,Online,7,14.84,0.15,88.3,57.07,31.23
+ORD-00321,2025-07-04,Filing Cabinet,Furniture,East,Kolkata,Corporate,Online,6,281.18,0.15,1434.02,1285.1,148.92
+ORD-00542,2025-07-04,Pen Set,Office Supplies,North,Delhi,Corporate,Online,4,15.0,0.2,48.0,43.87,4.13
+ORD-00587,2025-07-07,Bookshelf,Furniture,East,Guwahati,Corporate,Online,4,107.87,0.0,431.48,325.12,106.36
+ORD-00838,2025-07-07,Notebook,Office Supplies,North,Chandigarh,Consumer,In-Store,6,2.71,0.1,14.63,9.76,4.87
+ORD-00174,2025-07-08,Desk,Furniture,East,Guwahati,Consumer,In-Store,6,269.53,0.0,1617.18,1113.92,503.26
+ORD-00467,2025-07-08,Filing Cabinet,Furniture,Central,Nagpur,Corporate,Online,6,263.51,0.05,1502.01,1227.31,274.7
+ORD-00158,2025-07-09,Notebook,Office Supplies,East,Kolkata,Consumer,Online,2,4.5,0.1,8.1,5.0,3.1
+ORD-00625,2025-07-09,Notebook,Office Supplies,Central,Bhopal,Consumer,Online,3,2.56,0.1,6.91,6.29,0.62
+ORD-00898,2025-07-10,Desk,Furniture,North,Jaipur,Corporate,Online,7,346.96,0.15,2064.41,1658.35,406.06
+ORD-00261,2025-07-11,Bookshelf,Furniture,Central,Bhopal,Corporate,Online,7,72.53,0.2,406.17,401.99,4.18
+ORD-00416,2025-07-11,Printer,Technology,East,Guwahati,Consumer,Online,6,220.88,0.1,1192.75,752.56,440.19
+ORD-00876,2025-07-11,Office Chair,Furniture,East,Bhubaneswar,Corporate,Partner,8,249.32,0.1,1795.1,1381.39,413.71
+ORD-00210,2025-07-12,Office Chair,Furniture,East,Bhubaneswar,Corporate,Online,4,270.37,0.05,1027.41,746.71,280.7
+ORD-00953,2025-07-13,Filing Cabinet,Furniture,East,Bhubaneswar,Consumer,In-Store,2,262.53,0.0,525.06,407.24,117.82
+ORD-00376,2025-07-14,Laptop,Technology,East,Bhubaneswar,Consumer,Partner,1,574.05,0.1,516.64,347.16,169.48
+ORD-00672,2025-07-14,Laptop,Technology,West,Mumbai,Small Business,In-Store,5,1072.74,0.0,5363.7,4230.45,1133.25
+ORD-00683,2025-07-14,Laptop,Technology,Central,Nagpur,Consumer,Online,7,1061.25,0.0,7428.75,4990.96,2437.79
+ORD-00751,2025-07-15,Stapler,Office Supplies,West,Mumbai,Consumer,Online,5,19.7,0.0,98.5,60.19,38.31
+ORD-01132,2025-07-16,Laptop,Technology,West,Mumbai,Corporate,In-Store,5,1207.6,0.15,5132.3,4846.03,286.27
+ORD-00200,2025-07-17,Laptop,Technology,West,Pune,Consumer,In-Store,7,913.94,0.1,5757.82,4970.08,787.74
+ORD-00549,2025-07-17,Printer,Technology,South,Hyderabad,Corporate,Partner,8,330.04,0.05,2508.3,1981.18,527.12
+ORD-00122,2025-07-18,Paper,Office Supplies,South,Chennai,Small Business,Partner,3,9.31,0.1,25.14,21.87,3.27
+ORD-00334,2025-07-18,Bookshelf,Furniture,West,Ahmedabad,Corporate,Online,7,174.71,0.0,1222.97,886.54,336.43
+ORD-00538,2025-07-18,Folder,Office Supplies,West,Pune,Consumer,Online,4,7.34,0.05,27.89,18.39,9.5
+ORD-00172,2025-07-19,Desk,Furniture,Central,Bhopal,Consumer,In-Store,6,489.98,0.2,2351.9,1874.02,477.88
+ORD-00328,2025-07-22,Paper,Office Supplies,South,Hyderabad,Consumer,In-Store,7,15.25,0.05,101.41,74.92,26.49
+ORD-00507,2025-07-22,Monitor,Technology,West,Mumbai,Consumer,Online,4,314.67,0.05,1195.75,757.78,437.97
+ORD-00901,2025-07-22,Keyboard,Technology,North,Jaipur,Corporate,Partner,1,38.87,0.15,33.04,25.32,7.72
+ORD-01051,2025-07-22,Folder,Office Supplies,North,Delhi,Consumer,Online,1,5.54,0.2,4.43,4.46,-0.03
+ORD-00633,2025-07-23,Filing Cabinet,Furniture,South,Hyderabad,Consumer,In-Store,4,148.02,0.0,592.08,320.6,271.48
+ORD-01084,2025-07-23,Desk,Furniture,Central,Nagpur,Corporate,Online,2,497.14,0.05,944.57,642.12,302.45
+ORD-00346,2025-07-24,Office Chair,Furniture,South,Bengaluru,Consumer,Online,4,235.89,0.1,849.2,743.47,105.73
+ORD-00002,2025-07-25,Folder,Office Supplies,East,Bhubaneswar,Corporate,Online,2,4.15,0.05,7.89,6.62,1.27
+ORD-00238,2025-07-25,Bookshelf,Furniture,West,Mumbai,Consumer,Online,3,168.21,0.0,504.63,383.0,121.63
+ORD-00282,2025-07-25,Paper,Office Supplies,East,Kolkata,Corporate,Online,3,6.93,0.05,19.75,14.14,5.61
+ORD-00095,2025-07-26,Laptop,Technology,East,Guwahati,Corporate,In-Store,5,1223.18,0.05,5810.11,4054.09,1756.02
+ORD-00983,2025-07-26,Keyboard,Technology,North,Chandigarh,Corporate,In-Store,7,31.05,0.15,184.75,173.37,11.38
+ORD-01058,2025-07-26,Keyboard,Technology,South,Hyderabad,Consumer,In-Store,1,71.35,0.0,71.35,49.03,22.32
+ORD-00753,2025-07-27,Keyboard,Technology,South,Chennai,Corporate,Online,6,79.37,0.05,452.41,336.6,115.81
+ORD-00785,2025-07-27,Keyboard,Technology,South,Bengaluru,Consumer,Online,4,35.21,0.2,112.67,94.05,18.62
+ORD-00888,2025-07-27,Paper,Office Supplies,East,Guwahati,Corporate,Online,5,13.38,0.05,63.55,46.83,16.72
+ORD-00064,2025-07-28,Desk,Furniture,Central,Indore,Corporate,Online,2,224.01,0.0,448.02,290.48,157.54
+ORD-00204,2025-07-29,Printer,Technology,West,Pune,Consumer,Online,7,295.37,0.0,2067.59,1297.01,770.58
+ORD-00975,2025-07-29,Pen Set,Office Supplies,East,Kolkata,Consumer,Online,7,4.09,0.0,28.63,18.28,10.35
+ORD-00508,2025-07-30,Laptop,Technology,East,Bhubaneswar,Small Business,In-Store,2,567.12,0.0,1134.24,816.46,317.78
+ORD-01175,2025-07-30,Keyboard,Technology,East,Guwahati,Small Business,In-Store,1,19.82,0.15,16.85,15.54,1.31
+ORD-00182,2025-07-31,Laptop,Technology,East,Bhubaneswar,Consumer,Online,6,688.88,0.1,3719.95,2616.45,1103.5
+ORD-00429,2025-07-31,Filing Cabinet,Furniture,South,Chennai,Consumer,Online,8,259.8,0.1,1870.56,1172.07,698.49
+ORD-01100,2025-07-31,Laptop,Technology,South,Hyderabad,Consumer,Online,3,1352.29,0.0,4056.87,2297.83,1759.04
+ORD-00133,2025-08-03,Paper,Office Supplies,West,Pune,Corporate,Online,6,17.52,0.0,105.12,83.79,21.33
+ORD-01134,2025-08-03,Bookshelf,Furniture,North,Delhi,Corporate,In-Store,5,71.28,0.0,356.4,268.47,87.93
+ORD-00050,2025-08-04,Desk,Furniture,West,Pune,Consumer,Online,3,478.33,0.1,1291.49,862.66,428.83
+ORD-00227,2025-08-04,Mouse,Technology,East,Guwahati,Small Business,Online,3,20.37,0.2,48.89,45.01,3.88
+ORD-00945,2025-08-04,Notebook,Office Supplies,Central,Nagpur,Corporate,Online,4,12.07,0.0,48.28,34.27,14.01
+ORD-01054,2025-08-05,Paper,Office Supplies,West,Ahmedabad,Corporate,Partner,8,9.49,0.05,72.12,53.68,18.44
+ORD-00134,2025-08-06,Office Chair,Furniture,East,Kolkata,Consumer,In-Store,8,190.34,0.0,1522.72,1001.16,521.56
+ORD-00226,2025-08-06,Mouse,Technology,East,Kolkata,Corporate,In-Store,5,31.73,0.15,134.85,125.96,8.89
+ORD-01171,2025-08-06,Laptop,Technology,North,Delhi,Consumer,Partner,2,931.11,0.15,1582.89,1100.95,481.94
+ORD-00755,2025-08-07,Folder,Office Supplies,South,Chennai,Consumer,In-Store,7,7.38,0.0,51.66,38.44,13.22
+ORD-01141,2025-08-07,Printer,Technology,West,Ahmedabad,Corporate,In-Store,3,278.4,0.1,751.68,632.69,118.99
+ORD-00302,2025-08-08,Bookshelf,Furniture,South,Bengaluru,Consumer,In-Store,1,160.11,0.1,144.1,130.65,13.45
+ORD-00332,2025-08-08,Bookshelf,Furniture,South,Chennai,Consumer,In-Store,3,241.3,0.05,687.71,544.19,143.52
+ORD-00344,2025-08-08,Laptop,Technology,East,Guwahati,Consumer,Partner,7,1013.42,0.1,6384.55,5171.61,1212.94
+ORD-01085,2025-08-08,Stapler,Office Supplies,West,Mumbai,Corporate,Online,1,23.06,0.15,19.6,13.78,5.82
+ORD-00892,2025-08-09,Paper,Office Supplies,North,Jaipur,Corporate,Online,7,8.01,0.05,53.27,45.0,8.27
+ORD-00932,2025-08-09,Folder,Office Supplies,South,Hyderabad,Consumer,Online,7,3.22,0.1,20.29,15.76,4.53
+ORD-00348,2025-08-10,Desk,Furniture,West,Mumbai,Corporate,Online,7,122.95,0.0,860.65,606.12,254.53
+ORD-00170,2025-08-11,Pen Set,Office Supplies,South,Bengaluru,Corporate,Online,4,10.41,0.2,33.31,26.41,6.9
+ORD-00281,2025-08-12,Paper,Office Supplies,West,Mumbai,Corporate,Partner,3,6.35,0.2,15.24,13.37,1.87
+ORD-00995,2025-08-12,Mouse,Technology,East,Bhubaneswar,Corporate,Online,5,50.21,0.0,251.05,179.74,71.31
+ORD-00023,2025-08-13,Bookshelf,Furniture,South,Bengaluru,Consumer,Online,4,244.26,0.0,977.04,787.37,189.67
+ORD-00196,2025-08-13,Notebook,Office Supplies,West,Mumbai,Corporate,Online,3,9.84,0.1,26.57,19.2,7.37
+ORD-01130,2025-08-14,Bookshelf,Furniture,West,Pune,Consumer,Online,5,145.77,0.05,692.41,554.34,138.07
+ORD-00217,2025-08-15,Keyboard,Technology,South,Bengaluru,Consumer,Online,6,57.96,0.0,347.76,222.07,125.69
+ORD-00536,2025-08-16,Mouse,Technology,East,Bhubaneswar,Consumer,In-Store,1,41.08,0.05,39.03,24.45,14.58
+ORD-00825,2025-08-16,Laptop,Technology,North,Delhi,Corporate,Online,4,998.64,0.1,3595.1,2314.95,1280.15
+ORD-00522,2025-08-17,Paper,Office Supplies,East,Guwahati,Consumer,Online,5,18.76,0.05,89.11,62.13,26.98
+ORD-00576,2025-08-17,Bookshelf,Furniture,West,Ahmedabad,Small Business,Online,7,70.64,0.1,445.03,395.8,49.23
+ORD-01057,2025-08-17,Filing Cabinet,Furniture,West,Mumbai,Consumer,Online,7,187.65,0.1,1182.19,1016.25,165.94
+ORD-00381,2025-08-18,Filing Cabinet,Furniture,South,Hyderabad,Corporate,Online,3,196.36,0.0,589.08,440.28,148.8
+ORD-00393,2025-08-18,Keyboard,Technology,Central,Nagpur,Consumer,In-Store,2,35.13,0.0,70.26,42.51,27.75
+ORD-00738,2025-08-18,Stapler,Office Supplies,North,Chandigarh,Consumer,In-Store,8,21.21,0.0,169.68,131.07,38.61
+ORD-00147,2025-08-19,Desk,Furniture,East,Bhubaneswar,Consumer,In-Store,6,199.73,0.15,1018.62,683.45,335.17
+ORD-01033,2025-08-19,Bookshelf,Furniture,East,Guwahati,Consumer,In-Store,5,166.15,0.15,706.14,628.07,78.07
+ORD-00791,2025-08-20,Office Chair,Furniture,North,Delhi,Consumer,Online,6,392.27,0.15,2000.58,1256.32,744.26
+ORD-00526,2025-08-22,Mouse,Technology,East,Kolkata,Corporate,Online,4,15.13,0.0,60.52,34.84,25.68
+ORD-00732,2025-08-22,Laptop,Technology,Central,Bhopal,Consumer,In-Store,3,1301.26,0.15,3318.21,3061.18,257.03
+ORD-01013,2025-08-23,Laptop,Technology,South,Chennai,Consumer,In-Store,8,1319.87,0.15,8975.12,7442.58,1532.54
+ORD-00778,2025-08-24,Keyboard,Technology,South,Hyderabad,Corporate,In-Store,5,78.97,0.1,355.37,240.67,114.7
+ORD-00803,2025-08-24,Notebook,Office Supplies,North,Chandigarh,Small Business,Online,4,3.88,0.1,13.97,12.49,1.48
+ORD-00291,2025-08-25,Filing Cabinet,Furniture,East,Kolkata,Small Business,In-Store,4,192.15,0.0,768.6,623.28,145.32
+ORD-00610,2025-08-26,Paper,Office Supplies,West,Mumbai,Consumer,In-Store,5,14.37,0.0,71.85,56.25,15.6
+ORD-00832,2025-08-26,Stapler,Office Supplies,Central,Nagpur,Corporate,In-Store,2,12.04,0.0,24.08,15.56,8.52
+ORD-00316,2025-08-27,Pen Set,Office Supplies,North,Chandigarh,Consumer,In-Store,8,12.98,0.1,93.46,62.2,31.26
+ORD-01197,2025-08-27,Office Chair,Furniture,Central,Nagpur,Consumer,Partner,8,231.32,0.0,1850.56,1127.8,722.76
+ORD-00161,2025-08-28,Laptop,Technology,East,Bhubaneswar,Corporate,Online,4,1018.27,0.1,3665.77,2150.48,1515.29
+ORD-00973,2025-08-28,Keyboard,Technology,South,Bengaluru,Corporate,Online,2,38.57,0.0,77.14,55.07,22.07
+ORD-01055,2025-08-28,Printer,Technology,North,Jaipur,Consumer,Online,8,269.45,0.05,2047.82,1355.12,692.7
+ORD-00164,2025-08-29,Laptop,Technology,West,Pune,Small Business,Online,6,696.17,0.15,3550.47,2760.96,789.51
+ORD-00775,2025-08-29,Printer,Technology,West,Ahmedabad,Consumer,In-Store,7,294.53,0.0,2061.71,1539.04,522.67
+ORD-01027,2025-08-29,Printer,Technology,East,Guwahati,Consumer,In-Store,6,182.15,0.0,1092.9,757.7,335.2
+ORD-00153,2025-08-31,Notebook,Office Supplies,South,Bengaluru,Corporate,In-Store,6,11.45,0.15,58.39,44.31,14.08
+ORD-00242,2025-08-31,Paper,Office Supplies,North,Jaipur,Consumer,In-Store,4,5.56,0.0,22.24,14.51,7.73
+ORD-00312,2025-08-31,Filing Cabinet,Furniture,South,Bengaluru,Corporate,Online,2,195.67,0.1,352.21,305.43,46.78
+ORD-00694,2025-09-01,Folder,Office Supplies,West,Mumbai,Consumer,Online,7,4.8,0.0,33.6,19.21,14.39
+ORD-01080,2025-09-01,Printer,Technology,Central,Indore,Consumer,Partner,8,102.93,0.15,699.92,447.32,252.6
+ORD-00055,2025-09-03,Laptop,Technology,Central,Bhopal,Corporate,Online,7,791.32,0.0,5539.24,4540.69,998.55
+ORD-00396,2025-09-04,Pen Set,Office Supplies,West,Mumbai,Corporate,Online,5,6.86,0.05,32.59,21.13,11.46
+ORD-00465,2025-09-04,Mouse,Technology,East,Kolkata,Corporate,In-Store,1,48.79,0.1,43.91,35.62,8.29
+ORD-00073,2025-09-05,Stapler,Office Supplies,Central,Indore,Consumer,Online,2,16.12,0.2,25.79,18.13,7.66
+ORD-00787,2025-09-06,Paper,Office Supplies,West,Mumbai,Consumer,Online,2,6.1,0.05,11.59,6.57,5.02
+ORD-01073,2025-09-06,Bookshelf,Furniture,North,Jaipur,Corporate,Partner,5,156.23,0.05,742.09,624.41,117.68
+ORD-00189,2025-09-07,Bookshelf,Furniture,Central,Nagpur,Consumer,In-Store,5,274.94,0.2,1099.76,767.19,332.57
+ORD-00470,2025-09-07,Notebook,Office Supplies,North,Delhi,Consumer,In-Store,5,11.18,0.05,53.1,43.63,9.47
+ORD-00770,2025-09-07,Desk,Furniture,West,Mumbai,Consumer,Online,3,415.97,0.15,1060.72,976.81,83.91
+ORD-00052,2025-09-10,Bookshelf,Furniture,West,Ahmedabad,Consumer,Partner,4,149.04,0.2,476.93,438.37,38.56
+ORD-00058,2025-09-10,Pen Set,Office Supplies,South,Chennai,Corporate,Online,1,15.01,0.2,12.01,11.28,0.73
+ORD-01039,2025-09-10,Stapler,Office Supplies,Central,Indore,Consumer,Online,8,18.86,0.05,143.34,89.28,54.06
+ORD-00211,2025-09-11,Paper,Office Supplies,South,Hyderabad,Consumer,Online,1,18.27,0.2,14.62,14.28,0.34
+ORD-00539,2025-09-11,Laptop,Technology,South,Chennai,Corporate,Online,7,816.33,0.05,5428.59,4379.83,1048.76
+ORD-01094,2025-09-11,Bookshelf,Furniture,East,Kolkata,Corporate,Online,4,112.57,0.0,450.28,366.65,83.63
+ORD-00263,2025-09-12,Paper,Office Supplies,North,Chandigarh,Small Business,In-Store,2,17.14,0.05,32.57,23.07,9.5
+ORD-00519,2025-09-12,Mouse,Technology,North,Chandigarh,Corporate,In-Store,1,64.28,0.2,51.42,38.34,13.08
+ORD-01063,2025-09-12,Keyboard,Technology,Central,Indore,Consumer,In-Store,5,57.29,0.0,286.45,152.63,133.82
+ORD-00404,2025-09-13,Desk,Furniture,North,Jaipur,Corporate,Online,5,238.8,0.0,1194.0,716.5,477.5
+ORD-00413,2025-09-13,Desk,Furniture,Central,Nagpur,Consumer,Online,2,485.58,0.2,776.93,640.63,136.3
+ORD-00098,2025-09-14,Laptop,Technology,Central,Bhopal,Consumer,Online,4,988.67,0.0,3954.68,2116.89,1837.79
+ORD-00127,2025-09-14,Keyboard,Technology,South,Bengaluru,Consumer,Online,2,72.69,0.15,123.57,90.4,33.17
+ORD-00265,2025-09-14,Folder,Office Supplies,Central,Indore,Consumer,In-Store,2,3.65,0.0,7.3,5.15,2.15
+ORD-00497,2025-09-14,Keyboard,Technology,West,Ahmedabad,Small Business,Online,6,57.65,0.05,328.6,264.93,63.67
+ORD-00710,2025-09-14,Desk,Furniture,North,Jaipur,Consumer,Online,4,244.54,0.0,978.16,694.74,283.42
+ORD-00883,2025-09-14,Notebook,Office Supplies,North,Chandigarh,Consumer,Online,2,6.94,0.0,13.88,8.33,5.55
+ORD-00056,2025-09-16,Paper,Office Supplies,West,Ahmedabad,Consumer,Partner,8,4.52,0.0,36.16,20.35,15.81
+ORD-01104,2025-09-16,Office Chair,Furniture,West,Ahmedabad,Small Business,Online,6,185.09,0.05,1055.01,718.24,336.77
+ORD-00266,2025-09-18,Stapler,Office Supplies,West,Pune,Consumer,Online,8,8.01,0.0,64.08,46.28,17.8
+ORD-00571,2025-09-18,Stapler,Office Supplies,North,Jaipur,Consumer,In-Store,8,13.09,0.0,104.72,76.45,28.27
+ORD-01123,2025-09-18,Printer,Technology,Central,Bhopal,Corporate,In-Store,8,363.51,0.0,2908.08,1593.8,1314.28
+ORD-01167,2025-09-18,Notebook,Office Supplies,East,Bhubaneswar,Consumer,In-Store,7,10.33,0.15,61.46,49.43,12.03
+ORD-00001,2025-09-19,Monitor,Technology,West,Pune,Corporate,In-Store,4,251.66,0.1,905.98,551.89,354.09
+ORD-00602,2025-09-20,Desk,Furniture,South,Chennai,Consumer,Online,7,241.77,0.1,1523.15,1141.89,381.26
+ORD-00116,2025-09-21,Notebook,Office Supplies,Central,Nagpur,Consumer,Online,5,3.26,0.15,13.85,12.71,1.14
+ORD-00500,2025-09-21,Keyboard,Technology,Central,Nagpur,Consumer,Online,5,24.94,0.1,112.23,74.2,38.03
+ORD-00911,2025-09-21,Desk,Furniture,East,Guwahati,Corporate,Online,6,116.14,0.1,627.16,518.04,109.12
+ORD-01192,2025-09-22,Filing Cabinet,Furniture,East,Kolkata,Consumer,Partner,8,285.24,0.2,1825.54,1335.72,489.82
+ORD-00758,2025-09-23,Stapler,Office Supplies,South,Hyderabad,Corporate,Online,7,12.4,0.15,73.78,54.85,18.93
+ORD-00766,2025-09-23,Folder,Office Supplies,North,Jaipur,Small Business,In-Store,8,3.67,0.1,26.42,20.91,5.51
+ORD-00231,2025-09-24,Office Chair,Furniture,North,Chandigarh,Consumer,In-Store,7,215.6,0.0,1509.2,964.27,544.93
+ORD-00642,2025-09-24,Notebook,Office Supplies,East,Bhubaneswar,Small Business,Online,4,8.95,0.05,34.01,25.93,8.08
+ORD-01154,2025-09-24,Desk,Furniture,East,Guwahati,Consumer,Online,4,374.39,0.0,1497.56,1204.98,292.58
+ORD-00450,2025-09-26,Printer,Technology,South,Chennai,Consumer,In-Store,2,217.9,0.15,370.43,231.36,139.07
+ORD-00865,2025-09-26,Paper,Office Supplies,West,Ahmedabad,Consumer,In-Store,8,12.37,0.1,89.06,80.38,8.68
+ORD-00598,2025-09-27,Paper,Office Supplies,West,Ahmedabad,Consumer,Partner,7,21.46,0.05,142.71,106.77,35.94
+ORD-00703,2025-09-27,Mouse,Technology,North,Chandigarh,Small Business,In-Store,8,28.03,0.15,190.6,149.59,41.01
+ORD-00713,2025-09-27,Stapler,Office Supplies,South,Bengaluru,Corporate,In-Store,5,5.85,0.1,26.32,17.83,8.49
+ORD-00390,2025-09-30,Keyboard,Technology,Central,Bhopal,Corporate,Online,1,72.58,0.2,58.06,37.9,20.16
+ORD-00027,2025-10-01,Notebook,Office Supplies,North,Jaipur,Small Business,In-Store,6,9.19,0.0,55.14,33.81,21.33
+ORD-00780,2025-10-02,Desk,Furniture,West,Mumbai,Consumer,In-Store,5,299.53,0.15,1273.0,1201.72,71.28
+ORD-00851,2025-10-02,Filing Cabinet,Furniture,South,Bengaluru,Small Business,In-Store,6,164.58,0.0,987.48,650.6,336.88
+ORD-00593,2025-10-03,Office Chair,Furniture,North,Jaipur,Consumer,Online,2,203.01,0.15,345.12,224.48,120.64
+ORD-00115,2025-10-04,Printer,Technology,East,Kolkata,Corporate,In-Store,6,302.71,0.05,1725.45,1226.17,499.28
+ORD-00826,2025-10-04,Notebook,Office Supplies,West,Mumbai,Consumer,Online,5,9.33,0.15,39.65,26.16,13.49
+ORD-00885,2025-10-05,Paper,Office Supplies,West,Pune,Consumer,In-Store,6,5.09,0.1,27.49,23.14,4.35
+ORD-00558,2025-10-06,Bookshelf,Furniture,Central,Nagpur,Consumer,Partner,6,258.75,0.1,1397.25,866.63,530.62
+ORD-01125,2025-10-06,Keyboard,Technology,North,Chandigarh,Consumer,In-Store,4,19.94,0.1,71.78,59.73,12.05
+ORD-00473,2025-10-09,Printer,Technology,Central,Indore,Consumer,Partner,5,247.79,0.0,1238.95,766.92,472.03
+ORD-00092,2025-10-10,Laptop,Technology,South,Chennai,Corporate,In-Store,4,1089.36,0.0,4357.44,2815.41,1542.03
+ORD-01061,2025-10-10,Folder,Office Supplies,West,Ahmedabad,Consumer,Online,3,5.3,0.0,15.9,12.26,3.64
+ORD-00038,2025-10-11,Desk,Furniture,West,Mumbai,Consumer,In-Store,8,458.96,0.0,3671.68,2109.19,1562.49
+ORD-00488,2025-10-11,Printer,Technology,East,Bhubaneswar,Small Business,Online,2,182.12,0.0,364.24,206.73,157.51
+ORD-00564,2025-10-11,Keyboard,Technology,East,Kolkata,Corporate,Online,2,34.82,0.15,59.19,48.81,10.38
+ORD-01040,2025-10-11,Paper,Office Supplies,Central,Nagpur,Consumer,Online,4,15.43,0.1,55.55,36.6,18.95
+ORD-00209,2025-10-12,Filing Cabinet,Furniture,Central,Indore,Consumer,Online,4,239.18,0.15,813.21,724.65,88.56
+ORD-00489,2025-10-12,Mouse,Technology,South,Hyderabad,Consumer,Online,4,59.96,0.1,215.86,142.02,73.84
+ORD-00654,2025-10-12,Office Chair,Furniture,West,Mumbai,Small Business,In-Store,8,382.15,0.05,2904.34,1854.34,1050.0
+ORD-00891,2025-10-13,Laptop,Technology,North,Chandigarh,Small Business,In-Store,8,920.34,0.0,7362.72,4838.79,2523.93
+ORD-00893,2025-10-14,Filing Cabinet,Furniture,East,Kolkata,Consumer,Online,2,108.82,0.15,184.99,142.96,42.03
+ORD-00880,2025-10-17,Mouse,Technology,South,Hyderabad,Consumer,Online,7,64.97,0.0,454.79,269.84,184.95
+ORD-00458,2025-10-20,Bookshelf,Furniture,West,Ahmedabad,Consumer,Online,8,242.54,0.1,1746.29,1333.54,412.75
+ORD-00680,2025-10-20,Desk,Furniture,East,Bhubaneswar,Corporate,Partner,3,517.88,0.1,1398.28,1129.21,269.07
+ORD-00088,2025-10-21,Desk,Furniture,South,Hyderabad,Corporate,Online,2,459.64,0.0,919.28,713.36,205.92
+ORD-00718,2025-10-21,Paper,Office Supplies,North,Jaipur,Consumer,Online,2,18.92,0.0,37.84,27.59,10.25
+ORD-00081,2025-10-22,Stapler,Office Supplies,East,Bhubaneswar,Small Business,Online,6,20.23,0.1,109.24,98.19,11.05
+ORD-01022,2025-10-23,Notebook,Office Supplies,North,Chandigarh,Small Business,Online,2,8.61,0.05,16.36,14.08,2.28
+ORD-01151,2025-10-23,Pen Set,Office Supplies,North,Delhi,Consumer,Online,5,7.54,0.05,35.81,29.38,6.43
+ORD-00933,2025-10-24,Folder,Office Supplies,North,Delhi,Corporate,Online,7,2.8,0.05,18.62,14.88,3.74
+ORD-01140,2025-10-24,Keyboard,Technology,Central,Indore,Corporate,In-Store,8,44.33,0.05,336.91,263.77,73.14
+ORD-01082,2025-10-25,Laptop,Technology,North,Jaipur,Corporate,Online,5,1061.87,0.0,5309.35,3175.27,2134.08
+ORD-00186,2025-10-28,Laptop,Technology,East,Kolkata,Consumer,In-Store,8,588.35,0.2,3765.44,3630.09,135.35
+ORD-01138,2025-10-28,Pen Set,Office Supplies,Central,Bhopal,Small Business,In-Store,6,6.97,0.1,37.64,22.22,15.42
+ORD-00154,2025-10-31,Printer,Technology,North,Delhi,Consumer,In-Store,4,348.98,0.0,1395.92,1094.01,301.91
+ORD-00187,2025-10-31,Folder,Office Supplies,North,Jaipur,Consumer,Partner,1,4.74,0.1,4.27,3.03,1.24
+ORD-00451,2025-10-31,Notebook,Office Supplies,East,Kolkata,Small Business,Partner,6,2.12,0.05,12.08,10.26,1.82
+ORD-00230,2025-11-01,Notebook,Office Supplies,South,Chennai,Corporate,Online,6,11.96,0.0,71.76,42.05,29.71
+ORD-00433,2025-11-02,Paper,Office Supplies,Central,Nagpur,Consumer,In-Store,6,14.13,0.0,84.78,47.01,37.77
+ORD-00048,2025-11-03,Filing Cabinet,Furniture,North,Jaipur,Consumer,In-Store,5,204.51,0.05,971.42,766.07,205.35
+ORD-00114,2025-11-03,Stapler,Office Supplies,East,Guwahati,Small Business,Online,2,24.23,0.0,48.46,28.1,20.36
+ORD-00802,2025-11-03,Office Chair,Furniture,South,Hyderabad,Corporate,Online,7,406.47,0.1,2560.76,2079.83,480.93
+ORD-00711,2025-11-04,Bookshelf,Furniture,North,Chandigarh,Corporate,Online,3,196.48,0.05,559.97,367.3,192.67
+ORD-00822,2025-11-04,Monitor,Technology,South,Bengaluru,Corporate,Partner,1,399.45,0.1,359.5,275.04,84.46
+ORD-00219,2025-11-05,Keyboard,Technology,East,Kolkata,Consumer,Online,2,49.06,0.0,98.12,72.51,25.61
+ORD-00638,2025-11-05,Monitor,Technology,West,Ahmedabad,Corporate,Partner,3,316.65,0.0,949.95,778.29,171.66
+ORD-00873,2025-11-05,Mouse,Technology,Central,Bhopal,Consumer,In-Store,2,23.57,0.05,44.78,28.17,16.61
+ORD-00145,2025-11-06,Pen Set,Office Supplies,South,Hyderabad,Corporate,In-Store,8,16.69,0.15,113.49,108.61,4.88
+ORD-00475,2025-11-07,Laptop,Technology,West,Pune,Consumer,Partner,5,973.54,0.1,4380.93,3282.27,1098.66
+ORD-01065,2025-11-08,Paper,Office Supplies,South,Chennai,Small Business,Partner,4,20.13,0.2,64.42,60.43,3.99
+ORD-00695,2025-11-10,Filing Cabinet,Furniture,North,Jaipur,Consumer,Partner,3,107.24,0.0,321.72,174.36,147.36
+ORD-00704,2025-11-10,Folder,Office Supplies,Central,Nagpur,Consumer,In-Store,7,3.67,0.1,23.12,17.81,5.31
+ORD-00582,2025-11-11,Paper,Office Supplies,West,Pune,Small Business,In-Store,4,17.35,0.0,69.4,47.37,22.03
+ORD-01110,2025-11-11,Bookshelf,Furniture,West,Mumbai,Small Business,Partner,3,160.01,0.0,480.03,327.98,152.05
+ORD-00505,2025-11-13,Paper,Office Supplies,North,Jaipur,Small Business,Online,3,19.05,0.0,57.15,38.72,18.43
+ORD-00180,2025-11-14,Monitor,Technology,South,Bengaluru,Consumer,Online,5,414.64,0.1,1865.88,1342.38,523.5
+ORD-00448,2025-11-14,Laptop,Technology,North,Chandigarh,Corporate,In-Store,3,971.17,0.05,2767.83,2005.02,762.81
+ORD-00840,2025-11-14,Notebook,Office Supplies,Central,Indore,Consumer,Partner,8,3.58,0.15,24.34,21.81,2.53
+ORD-00335,2025-11-15,Pen Set,Office Supplies,North,Jaipur,Consumer,Online,6,17.11,0.05,97.53,73.17,24.36
+ORD-00800,2025-11-15,Monitor,Technology,East,Guwahati,Small Business,In-Store,8,291.59,0.05,2216.08,1619.38,596.7
+ORD-00514,2025-11-16,Bookshelf,Furniture,East,Bhubaneswar,Consumer,In-Store,2,129.49,0.05,246.03,156.25,89.78
+ORD-00452,2025-11-17,Printer,Technology,West,Ahmedabad,Consumer,Online,5,148.78,0.1,669.51,509.34,160.17
+ORD-00972,2025-11-17,Notebook,Office Supplies,West,Mumbai,Corporate,Online,2,13.19,0.15,22.42,20.03,2.39
+ORD-01018,2025-11-17,Laptop,Technology,Central,Nagpur,Corporate,Online,1,1262.56,0.05,1199.43,922.41,277.02
+ORD-00063,2025-11-18,Bookshelf,Furniture,West,Ahmedabad,Consumer,Online,4,206.34,0.0,825.36,555.06,270.3
+ORD-00962,2025-11-19,Desk,Furniture,Central,Indore,Corporate,In-Store,2,365.58,0.05,694.6,552.85,141.75
+ORD-00422,2025-11-20,Printer,Technology,West,Mumbai,Corporate,In-Store,8,180.51,0.2,1155.26,1168.71,-13.45
+ORD-00534,2025-11-21,Laptop,Technology,West,Ahmedabad,Consumer,In-Store,3,703.3,0.1,1898.91,1323.19,575.72
+ORD-00985,2025-11-21,Bookshelf,Furniture,South,Hyderabad,Consumer,Online,6,149.58,0.0,897.48,498.75,398.73
+ORD-00872,2025-11-22,Mouse,Technology,West,Pune,Consumer,In-Store,1,34.68,0.0,34.68,19.31,15.37
+ORD-00943,2025-11-23,Monitor,Technology,Central,Bhopal,Consumer,Online,5,335.91,0.05,1595.57,1230.0,365.57
+ORD-00213,2025-11-24,Mouse,Technology,North,Delhi,Consumer,Online,6,13.19,0.05,75.18,60.96,14.22
+ORD-01019,2025-11-24,Paper,Office Supplies,North,Delhi,Small Business,Online,7,12.94,0.1,81.52,57.24,24.28
+ORD-01139,2025-11-24,Filing Cabinet,Furniture,South,Hyderabad,Consumer,Online,2,121.18,0.0,242.36,144.72,97.64
+ORD-00981,2025-11-27,Monitor,Technology,North,Jaipur,Corporate,Online,5,167.29,0.1,752.8,557.65,195.15
+ORD-01074,2025-11-27,Keyboard,Technology,South,Chennai,Corporate,Partner,5,71.3,0.05,338.68,265.74,72.94
+ORD-00767,2025-11-28,Bookshelf,Furniture,North,Delhi,Consumer,In-Store,8,108.46,0.2,694.14,703.02,-8.88
+ORD-00955,2025-11-28,Monitor,Technology,West,Ahmedabad,Consumer,In-Store,7,376.74,0.0,2637.18,1502.24,1134.94
+ORD-01142,2025-11-28,Keyboard,Technology,East,Guwahati,Consumer,Online,3,85.34,0.0,256.02,151.86,104.16
+ORD-00203,2025-11-29,Notebook,Office Supplies,South,Bengaluru,Consumer,Partner,1,3.33,0.0,3.33,1.93,1.4
+ORD-00440,2025-11-30,Printer,Technology,East,Bhubaneswar,Consumer,Online,4,231.22,0.2,739.9,690.78,49.12
+ORD-00466,2025-11-30,Notebook,Office Supplies,West,Ahmedabad,Corporate,Online,2,7.98,0.1,14.36,8.31,6.05
+ORD-00723,2025-12-02,Printer,Technology,East,Guwahati,Consumer,In-Store,2,99.07,0.0,198.14,124.04,74.1
+ORD-00984,2025-12-02,Printer,Technology,North,Jaipur,Consumer,Online,7,249.03,0.0,1743.21,947.9,795.31
+ORD-01191,2025-12-04,Filing Cabinet,Furniture,East,Guwahati,Consumer,Online,6,270.95,0.05,1544.41,1016.36,528.05
+ORD-00604,2025-12-07,Monitor,Technology,Central,Nagpur,Consumer,In-Store,7,340.0,0.1,2142.0,1754.67,387.33
+ORD-00879,2025-12-07,Notebook,Office Supplies,South,Chennai,Corporate,Online,1,2.04,0.15,1.73,1.38,0.35
+ORD-01137,2025-12-08,Office Chair,Furniture,West,Mumbai,Corporate,In-Store,6,222.13,0.05,1266.14,747.5,518.64
+ORD-01182,2025-12-08,Keyboard,Technology,Central,Nagpur,Corporate,Online,3,33.93,0.0,101.79,64.76,37.03
+ORD-00024,2025-12-09,Printer,Technology,Central,Nagpur,Small Business,In-Store,8,137.74,0.0,1101.92,716.83,385.09
+ORD-00839,2025-12-09,Keyboard,Technology,East,Bhubaneswar,Small Business,Partner,2,56.86,0.0,113.72,89.52,24.2
+ORD-00928,2025-12-09,Filing Cabinet,Furniture,Central,Indore,Consumer,Partner,6,263.48,0.05,1501.84,958.74,543.1
+ORD-00235,2025-12-11,Folder,Office Supplies,East,Guwahati,Consumer,Online,3,1.99,0.15,5.07,4.76,0.31
+ORD-00772,2025-12-11,Folder,Office Supplies,North,Jaipur,Corporate,Online,7,2.7,0.1,17.01,14.81,2.2
+ORD-00644,2025-12-12,Notebook,Office Supplies,South,Bengaluru,Corporate,Partner,6,6.94,0.05,39.56,23.89,15.67
+ORD-00022,2025-12-13,Paper,Office Supplies,West,Mumbai,Consumer,In-Store,6,17.84,0.0,107.04,85.08,21.96
+ORD-00224,2025-12-13,Printer,Technology,West,Pune,Small Business,In-Store,2,316.44,0.2,506.3,467.39,38.91
+ORD-00453,2025-12-13,Stapler,Office Supplies,North,Jaipur,Consumer,Online,2,18.97,0.0,37.94,28.16,9.78
+ORD-00246,2025-12-14,Monitor,Technology,South,Hyderabad,Small Business,Online,7,340.04,0.0,2380.28,1644.76,735.52
+ORD-01199,2025-12-15,Folder,Office Supplies,West,Mumbai,Consumer,Online,8,2.97,0.0,23.76,15.11,8.65
+ORD-00117,2025-12-16,Office Chair,Furniture,West,Ahmedabad,Consumer,Online,2,93.68,0.05,177.99,137.86,40.13
+ORD-00436,2025-12-16,Monitor,Technology,North,Jaipur,Small Business,Online,4,221.61,0.0,886.44,511.15,375.29
+ORD-00229,2025-12-17,Bookshelf,Furniture,West,Mumbai,Consumer,In-Store,5,150.38,0.15,639.12,458.96,180.16
+ORD-00948,2025-12-18,Printer,Technology,Central,Indore,Consumer,Online,1,168.45,0.0,168.45,120.01,48.44
+ORD-00136,2025-12-21,Paper,Office Supplies,West,Ahmedabad,Consumer,Online,8,10.17,0.0,81.36,58.86,22.5
+ORD-00512,2025-12-21,Office Chair,Furniture,East,Kolkata,Corporate,Online,4,193.87,0.05,736.71,562.75,173.96
+ORD-00705,2025-12-21,Notebook,Office Supplies,Central,Nagpur,Corporate,In-Store,8,5.63,0.05,42.79,26.12,16.67
+ORD-01157,2025-12-21,Monitor,Technology,North,Chandigarh,Corporate,In-Store,5,224.88,0.0,1124.4,627.64,496.76
+ORD-00276,2025-12-22,Folder,Office Supplies,North,Jaipur,Consumer,In-Store,1,3.97,0.2,3.18,2.66,0.52
+ORD-00469,2025-12-23,Bookshelf,Furniture,Central,Nagpur,Corporate,Online,1,218.53,0.2,174.82,173.88,0.94
+ORD-00018,2025-12-24,Office Chair,Furniture,West,Pune,Consumer,In-Store,1,305.37,0.0,305.37,243.54,61.83
+ORD-00159,2025-12-24,Laptop,Technology,Central,Bhopal,Consumer,Partner,6,888.73,0.0,5332.38,3818.31,1514.07
+ORD-00249,2025-12-24,Filing Cabinet,Furniture,East,Guwahati,Small Business,Online,1,328.48,0.05,312.06,233.78,78.28
+ORD-00556,2025-12-24,Bookshelf,Furniture,South,Bengaluru,Consumer,Online,4,204.14,0.0,816.56,429.37,387.19
+ORD-00635,2025-12-24,Keyboard,Technology,East,Kolkata,Consumer,Partner,6,49.96,0.0,299.76,239.7,60.06
+ORD-00184,2025-12-25,Monitor,Technology,South,Chennai,Corporate,Online,7,412.33,0.0,2886.31,2065.16,821.15
+ORD-00285,2025-12-25,Mouse,Technology,South,Chennai,Consumer,In-Store,5,51.62,0.2,206.48,173.25,33.23
+ORD-00363,2025-12-25,Folder,Office Supplies,South,Bengaluru,Corporate,Online,5,4.52,0.0,22.6,15.52,7.08
+ORD-00530,2025-12-25,Monitor,Technology,North,Chandigarh,Consumer,Online,4,163.0,0.2,521.6,367.4,154.2
+ORD-00010,2025-12-26,Bookshelf,Furniture,West,Ahmedabad,Consumer,Online,1,161.71,0.0,161.71,103.91,57.8
+ORD-00109,2025-12-26,Mouse,Technology,North,Chandigarh,Small Business,In-Store,5,10.91,0.1,49.09,30.44,18.65
+ORD-00137,2025-12-26,Printer,Technology,Central,Bhopal,Small Business,Online,3,307.39,0.05,876.06,662.12,213.94
+ORD-00287,2025-12-27,Laptop,Technology,Central,Bhopal,Consumer,In-Store,8,630.19,0.15,4285.29,2762.66,1522.63
+ORD-00071,2025-12-28,Bookshelf,Furniture,South,Chennai,Corporate,Online,1,271.27,0.15,230.58,166.37,64.21
+ORD-00212,2025-12-28,Stapler,Office Supplies,West,Pune,Consumer,Online,3,17.13,0.2,41.11,32.04,9.07
+ORD-00557,2025-12-28,Stapler,Office Supplies,Central,Bhopal,Corporate,Partner,3,19.14,0.0,57.42,43.45,13.97
+ORD-00763,2025-12-29,Desk,Furniture,North,Jaipur,Consumer,Online,2,448.76,0.0,897.52,493.72,403.8
+ORD-00764,2025-12-29,Notebook,Office Supplies,West,Mumbai,Small Business,Online,8,11.61,0.15,78.95,66.42,12.53
+ORD-00572,2025-12-30,Laptop,Technology,West,Mumbai,Small Business,In-Store,2,1312.12,0.0,2624.24,2080.86,543.38
+ORD-01050,2025-12-31,Office Chair,Furniture,Central,Bhopal,Consumer,In-Store,5,345.33,0.0,1726.65,920.3,806.35
