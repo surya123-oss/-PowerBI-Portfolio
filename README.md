@@ -74,7 +74,9 @@
 
 **Aspiring Data Analyst**
 
+## Dashboard Preview
 
+![Sales Dashboard](Sales_Dashboard.png)
 
 
 
